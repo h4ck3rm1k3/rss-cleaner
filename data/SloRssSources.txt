@@ -1,0 +1,313 @@
+﻿Site: dnevnik
+# P # RSS list: http://www.dnevnik.si/rss/kaj_je_rss
+#http://www.dnevnik.si/rss/kaj_je_rss
+http://www.dnevnik.si/rss
+http://www.dnevnik.si/rss/slovenija
+http://www.dnevnik.si/rss/ljubljana
+http://www.dnevnik.si/rss/svet
+http://www.dnevnik.si/rss/poslovni/novice
+http://www.dnevnik.si/rss/sport
+http://www.dnevnik.si/rss/mnenja
+http://www.dnevnik.si/rss/magazin
+http://www.dnevnik.si/rss/kronika
+http://www.dnevnik.si/rss/kultura
+http://www.dnevnik.si/rss/zdravje
+http://www.dnevnik.si/rss/nedeljski
+http://www.dnevnik.si/rss/magazin/svet-vozil
+
+Site: 24ur
+# P # RSS list: http://www.24ur.com/
+#http://www.24ur.com/static/slo/main/xml/opensearch.xml
+http://www.24ur.com/rss
+http://24ur.com/rss/novice/slovenija/
+http://24ur.com/rss/novice/crna-kronika/
+http://24ur.com/rss/novice/svet/
+http://24ur.com/rss/novice/gospodarstvo/
+http://24ur.com/rss/novice/it/
+http://24ur.com/rss
+http://24ur.com/rss/sport/motogp/
+http://24ur.com/rss/sport/nogomet/
+http://24ur.com/rss/sport/ostalo/
+http://24ur.com/rss/ekskluziv/domaca-scena/
+http://24ur.com/rss/ekskluziv/tuja-scena/
+http://24ur.com/rss/ekskluziv/zanimivosti/
+http://24ur.com/rss/ekskluziv/glasba/
+http://24ur.com/rss/ekskluziv/film_tv/
+http://24ur.com/rss/ekskluziv/erotika/
+
+Site: delo
+http://www.delo.si/rss/
+
+#Site: times.si
+#http://www.times.si/rss.xml
+#http://www.times.si/slovenija/rss.xml
+#http://www.times.si/gospodarstvo/rss.xml
+#http://www.times.si/svet/rss.xml
+#http://www.times.si/sport/rss.xml
+#http://www.times.si/kronika/rss.xml
+#http://www.times.si/kultura/rss.xml
+#http://www.times.si/tehnologija/rss.xml
+#http://www.times.si/zanimivosti/rss.xml
+
+Site: cekin
+http://cekin.si/rss/
+
+Site: drugisvet
+http://www.drugisvet.com/feed
+http://www.drugisvet.com/category/novice/feed
+http://www.drugisvet.com/category/posel-in-stroka/feed
+http://www.drugisvet.com/category/in-blog-veritas/feed
+http://www.drugisvet.com/category/sport-in-prosti-cas/feed
+http://www.drugisvet.com/category/it/feed
+http://www.drugisvet.com/category/kultura-in-umetnost/feed
+http://www.drugisvet.com/category/mozgani-na-off/feed
+http://www.drugisvet.com/category/blog-urednistva/feed
+
+Site: mobile.si
+http://www.mobile.si/rss/articles.xml
+http://www.mobile.si/rss/gsm.xml
+
+Site: playboy
+http://feeds.feedburner.com/playboy-si?format=xml
+
+Site: razgledi.net
+http://razgledi.net/feed/
+http://razgledi.net/comments/feed/
+
+Site: skladi
+http://www.skladi.com/splosno?format=feed&type=rss
+http://www.skladi.com/vzajemni-skladi?format=feed&type=rss
+http://www.skladi.com/skladi-v-nalozbenih-policah?format=feed&type=rss
+http://www.skladi.com/ostale-nalozbe?format=feed&type=rss
+
+Site: tocnoto
+http://www.tocnoto.si/?mod=aktualno&action=rss
+
+Site: zenska
+http://www.zenska.si/feed/
+
+Site: finance
+http://www.finance.si/xml-servis/finance.rss
+
+Site: mobinet
+http://mobinet.si/index.php?format=feed&type=rss
+
+Site: politiks
+http://www.politikis.si/?feed=rss2
+http://www.politikis.si/?feed=rss2&cat=70
+http://www.politikis.si/?feed=rss2&cat=34
+http://www.politikis.si/?feed=rss2&cat=38
+http://www.politikis.si/?feed=rss2&cat=55
+http://www.politikis.si/?feed=rss2&cat=56
+http://www.politikis.si/?feed=rss2&cat=44
+http://www.politikis.si/?feed=rss2&cat=50
+http://www.politikis.si/?feed=rss2&cat=74
+http://www.politikis.si/?feed=rss2&cat=33
+http://www.politikis.si/?feed=rss2&cat=57
+http://www.politikis.si/?feed=rss2&cat=61
+http://www.politikis.si/?feed=rss2&cat=68
+http://www.politikis.si/?feed=rss2&cat=31
+http://www.politikis.si/?feed=rss2&cat=36
+http://www.politikis.si/?feed=rss2&cat=41
+http://www.politikis.si/?feed=rss2&cat=71
+http://www.politikis.si/?feed=rss2&cat=73
+http://www.politikis.si/?feed=rss2&cat=59
+http://www.politikis.si/?feed=rss2&cat=60
+http://www.politikis.si/?feed=rss2&cat=62
+http://www.politikis.si/?feed=rss2&cat=63
+http://www.politikis.si/?feed=rss2&cat=64
+http://www.politikis.si/?feed=rss2&cat=65
+http://www.politikis.si/?feed=rss2&cat=66
+http://www.politikis.si/?feed=rss2&cat=67
+http://www.politikis.si/?feed=rss2&cat=76
+http://www.politikis.si/?feed=rss2&cat=69
+http://www.politikis.si/?feed=rss2&cat=32
+http://www.politikis.si/?feed=rss2&cat=49
+http://www.politikis.si/?feed=rss2&cat=30
+http://www.politikis.si/?feed=rss2&cat=43
+http://www.politikis.si/?feed=rss2&cat=39
+http://www.politikis.si/?feed=rss2&cat=3
+http://www.politikis.si/?feed=rss2&cat=72
+http://www.politikis.si/?feed=rss2&cat=75
+
+Site: razkrito
+http://razkrito.net/feed/
+http://razkrito.net/kategorija/aktualno/feed/
+http://razkrito.net/kategorija/dizajner-2/feed/
+http://razkrito.net/kategorija/moda/feed/
+http://razkrito.net/kategorija/potovanja/feed/
+http://razkrito.net/kategorija/spolnost/feed/
+http://razkrito.net/kategorija/zabava-2/feed/
+http://razkrito.net/kategorija/zdravje/feed/
+
+Site: slotech
+http://feeds.slo-tech.com/ST-novice
+
+Site: vecer
+# P # RSS list: http://web.vecer.com/portali/vecer/v1/default.asp
+http://www.vecer.com/rss
+http://www.vecer.com/rss/maribor
+http://www.vecer.com/rss/slovenija
+http://www.vecer.com/rss/svet
+http://www.vecer.com/rss/gospodarstvo
+http://www.vecer.com/rss/sport
+
+Site: zurnal24
+http://www.zurnal24.si/index.php?ctl=show_rss
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=slovenija
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=crna-kronika
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=e-life
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=junak-slovenije
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=svet
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=sport
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=nogomet
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=kosarka
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=drugi-sporti
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=zimski-sporti
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=moto-sporti
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=magazin
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=vip
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=film-in-glasba
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=eroticno
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=bizarno
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=horoskop-in-numerologija
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=zame
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=sanjskaporoka
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=trebuscki
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=moda-in-lepota
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=zdravje
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=potovanja
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=dom-in-ljubljencki
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=recepti
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=avto
+http://www.zurnal24.si/index.php?ctl=show_rss&url_alias=jaz-porocam
+
+Site: aktivni
+http://feeds.feedburner.com/aktivni-si
+http://tecemo.aktivni.si/feeds/latest/
+
+Site: demokracija
+http://demokracija.si/index.php?format=feed&type=rss
+http://demokracija.si/slovenija?format=feed&type=rss
+http://demokracija.si/slovenija/politika?format=feed&type=rss
+http://demokracija.si/slovenija/gospodarstvo?format=feed&type=rss
+http://demokracija.si/slovenija/kronika?format=feed&type=rss
+http://demokracija.si/slovenija/kultura?format=feed&type=rss
+http://demokracija.si/slovenija/dogodki?format=feed&type=rss
+http://demokracija.si/slovenija/zgodbe?format=feed&type=rss
+http://demokracija.si/slovenija/druba?format=feed&type=rss
+http://demokracija.si/slovenija/narava?format=feed&type=rss
+http://demokracija.si/slovenija/pokrajine?format=feed&type=rss
+http://demokracija.si/slovenija/obine?format=feed&type=rss
+http://demokracija.si/v-fokusu?format=feed&type=rss
+http://demokracija.si/v-fokusu/politika?format=feed&type=rss
+http://demokracija.si/v-fokusu/gospodarstvo?format=feed&type=rss
+http://demokracija.si/v-fokusu/slovenija?format=feed&type=rss
+http://demokracija.si/v-fokusu/zgodovina?format=feed&type=rss
+http://demokracija.si/v-fokusu/druba?format=feed&type=rss
+http://demokracija.si/v-fokusu/narava?format=feed&type=rss
+http://demokracija.si/v-fokusu/kultura?format=feed&type=rss
+http://demokracija.si/v-fokusu/tujina?format=feed&type=rss
+http://demokracija.si/v-fokusu/port?format=feed&type=rss
+http://demokracija.si/v-fokusu/analitik?format=feed&type=rss
+http://demokracija.si/tujina?format=feed&type=rss
+http://demokracija.si/tujina/politika?format=feed&type=rss
+http://demokracija.si/tujina/gospodarstvo?format=feed&type=rss
+http://demokracija.si/tujina/druba?format=feed&type=rss
+http://demokracija.si/tujina/narava?format=feed&type=rss
+http://demokracija.si/tujina/reportaa?format=feed&type=rss
+http://demokracija.si/tujina/kultura?format=feed&type=rss
+http://demokracija.si/zanimivosti?format=feed&type=rss
+http://demokracija.si/zanimivosti/avtomobilizem?format=feed&type=rss
+http://demokracija.si/zanimivosti/znanost?format=feed&type=rss
+http://demokracija.si/zanimivosti/tehnika?format=feed&type=rss
+http://demokracija.si/zanimivosti/druba?format=feed&type=rss
+http://demokracija.si/zanimivosti/narava?format=feed&type=rss
+http://demokracija.si/zanimivosti/fenomeni?format=feed&type=rss
+http://demokracija.si/zanimivosti/preseki?format=feed&type=rss
+http://demokracija.si/zanimivosti/zdravje?format=feed&type=rss
+http://demokracija.si/zanimivosti/raunalniki-nasveti?format=feed&type=rss
+http://demokracija.si/port?format=feed&type=rss
+http://demokracija.si/port/nogomet?format=feed&type=rss
+http://demokracija.si/port/koarka?format=feed&type=rss
+http://demokracija.si/port/hokej?format=feed&type=rss
+http://demokracija.si/port/atletika?format=feed&type=rss
+http://demokracija.si/port/odbojka?format=feed&type=rss
+http://demokracija.si/port/rokomet?format=feed&type=rss
+http://demokracija.si/port/smuanje?format=feed&type=rss
+http://demokracija.si/port/moto-port?format=feed&type=rss
+http://demokracija.si/port/ostalo?format=feed&type=rss
+http://demokracija.si/rumeno?format=feed&type=rss
+http://demokracija.si/rumeno/domaa-scena?format=feed&type=rss
+http://demokracija.si/rumeno/tuja-scena?format=feed&type=rss
+http://demokracija.si/rumeno/pogovor?format=feed&type=rss
+http://demokracija.si/tednik-demokracija?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/uvodnik?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/v-srediu?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/politika?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/slovenija?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/gospodarstvo?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/tribuna?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/kolumna?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/intervju?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/kronika?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/kultura?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/ostalo/tujina?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/ostalo/pogovor?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/ostalo/pod-drobnogledom?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/ostalo/osebnosti?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/ostalo/zdravje-in-znanost?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/ostalo/ljudje?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/ostalo/zamejstvo?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/ostalo/zgodovina?format=feed&type=rss
+http://demokracija.si/tednik-demokracija/ostalo/film?format=feed&type=rss
+
+Site: govorise
+http://govori.se/feeds/latest/
+
+Site: mojmikro
+http://mojmikro.si/rss.xml
+
+Site: poslovnibazar
+http://www.poslovni-bazar.si/rss.php
+
+Site: rac_novice
+http://www.racunalniske-novice.com/rss-novice/novice/
+http://www.racunalniske-novice.com/rss-novice/novice_strojna-oprema/
+http://www.racunalniske-novice.com/rss-novice/novice_programska-oprema/
+http://www.racunalniske-novice.com/rss-novice/novice_mobilna-telefonija/
+http://www.racunalniske-novice.com/rss-novice/novice_splet/
+http://www.racunalniske-novice.com/rss-novice/novice_digitalni-marketing/
+http://www.racunalniske-novice.com/rss-novice/novice_dogodki-in-obvestila/
+http://www.racunalniske-novice.com/rss-novice/novice_nacionalni-sistem-inovacij/
+http://www.racunalniske-novice.com/rss-novice/novice_sporocila-za-javnost/
+http://www.racunalniske-novice.com/rss-novice/novice_podcast/
+http://www.racunalniske-novice.com/rss-novice/novice_piano/
+http://www.racunalniske-novice.com/rss-novice/novice_energijski-nasveti/
+http://www.racunalniske-novice.com/rss-novice/triki/
+http://www.racunalniske-novice.com/rss-novice/igre/
+http://www.racunalniske-novice.com/rss-novice/igre_novice/
+
+Site: slovenskenovice
+http://www.slovenskenovice.si/rss
+
+Site: vizita
+http://vizita.si/rss/
+
+Site: zvpl
+http://www.zvpl.com/rss/
+
+Site: bambino
+http://www.bambino.si/novice?feed
+
+Site: HBO
+http://www.hbo.si/rss/news.xml
+
+Site: primorskainfo
+http://www.primorska.info/rss
+
+Site: reporter
+http://reporter.si/novice.xml
+
+Site: viva
+http://www.viva.si/Rss/

@@ -1,0 +1,32 @@
+# Created by http://www.gitignore.io
+
+### Dot files ###
+.*
+
+### Git ###
+!/.gitignore
+!/.gitmodules
+
+### Logs ###
+logs
+*.log
+
+### Runtime data ###
+pids
+*.pid
+*.seed
+
+### NPM dependency directory ###
+node_modules
+
+### JSHint ###
+!/.jshintrc
+
+### JSCSrc ###
+!/.jscsrc
+
+### Travis ###
+!/.travis.yml
+
+### Test reports ###
+test/coverage

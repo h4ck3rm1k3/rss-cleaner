@@ -1,0 +1,82 @@
+http://www.nydailynews.com/index_rss.xml
+NEW YORK
+BACK TO THE TOP
+RSS Feed	Yahoo	New York	http://www.nydailynews.com/new-york/index_rss.xml
+RSS Feed	Yahoo	Bronx	 http://www.nydailynews.com/new-york/bronx/index_rss.xml
+RSS Feed	Yahoo	Brooklyn	http://www.nydailynews.com/new-york/brooklyn/index_rss.xml
+RSS Feed	Yahoo	Queens	http://www.nydailynews.com/new-york/queens/index_rss.xml
+RSS Feed	Yahoo	Uptown	http://www.nydailynews.com/new-york/uptown/index_rss.xml
+RSS Feed	Yahoo	Education	http://www.nydailynews.com/ny_local/education/index_rss.xml
+NEWS
+BACK TO THE TOP
+RSS Feed	Yahoo	News	http://www.nydailynews.com/index_rss.xml
+RSS Feed	Yahoo	US	http://www.nydailynews.com/news/national/index_rss.xml
+RSS Feed	Yahoo	World	http://www.nydailynews.com/news/world/index_rss.xml
+RSS Feed	Yahoo	Politics	http://www.nydailynews.com/news/politics/index_rss.xml
+RSS Feed	Yahoo	Crime	http://www.nydailynews.com/news/crime/index_rss.xml
+RSS Feed	Yahoo	News Columnists	http://www.nydailynews.com/news/columnists/index_rss.xml
+RSS Feed	Yahoo	News Photos	http://www.nydailynews.com/news/photos/index_rss.xml
+SPORTS
+BACK TO THE TOP
+RSS Feed	Yahoo	Sports	http://www.nydailynews.com/sports/index_rss.xml
+RSS Feed	Yahoo	Baseball	http://www.nydailynews.com/sports/baseball/index_rss.xml
+RSS Feed	Yahoo	Yankees	http://www.nydailynews.com/sports/baseball/yankees/index_rss.xml
+RSS Feed	Yahoo	Mets	http://www.nydailynews.com/sports/baseball/mets/index_rss.xml
+RSS Feed	Yahoo	Football	http://www.nydailynews.com/sports/football/index_rss.xml
+RSS Feed	Yahoo	Giants	http://www.nydailynews.com/sports/football/giants/index_rss.xml
+RSS Feed	Yahoo	Jets	http://www.nydailynews.com/sports/football/jets/index_rss.xml
+RSS Feed	Yahoo	Basketball	http://www.nydailynews.com/sports/basketball/index_rss.xml
+RSS Feed	Yahoo	Knicks	http://www.nydailynews.com/sports/basketball/knicks/index_rss.xml
+RSS Feed	Yahoo	Nets	http://www.nydailynews.com/sports/basketball/nets/index_rss.xml
+RSS Feed	Yahoo	Hockey	http://www.nydailynews.com/sports/hockey/index_rss.xml
+RSS Feed	Yahoo	Rangers	http://www.nydailynews.com/sports/hockey/rangers/index_rss.xml
+RSS Feed	Yahoo	College	http://www.nydailynews.com/sports/college/index_rss.xml
+RSS Feed	Yahoo	High School	http://www.nydailynews.com/sports/high_school/index_rss.xml
+RSS Feed	Yahoo	Other Sports	http://www.nydailynews.com/sports/more_sports/index_rss.xml
+RSS Feed	Yahoo	Sports Columnists	http://www.nydailynews.com/sports/columnists/index_rss.xml
+RSS Feed	Yahoo	Sports Photos	http://www.nydailynews.com/sports/photos/index_rss.xml
+SHOWBIZ
+BACK TO THE TOP
+RSS Feed	Yahoo	Showbiz	http://www.nydailynews.com/entertainment/index_rss.xml
+RSS Feed	Yahoo	Gossip	http://www.nydailynews.com/gossip/index_rss.xml
+RSS Feed	Yahoo	TV & Movies	http://www.nydailynews.com/entertainment/tv-movies/index_rss.xml
+RSS Feed	Yahoo	Music & Arts	http://www.nydailynews.com/entertainment/music-arts/index_rss.xml
+RSS Feed	Yahoo	Confidential	http://www.nydailynews.com/entertainment/gossip/confidential/index_rss.xml
+RSS Feed	Yahoo	Showbiz Columnists	http://www.nydailynews.com/entertainment/columnists/index_rss.xml
+RSS Feed	Yahoo	Showbiz Photos	http://www.nydailynews.com/entertainment/photos/index_rss.xml
+OPINION
+BACK TO THE TOP
+RSS Feed	Yahoo	Opinion	http://www.nydailynews.com/opinions/index_rss.xml
+RSS Feed	Yahoo	Opinion Columnists	http://www.nydailynews.com/opinions/columnists/index_rss.xml
+LIVING
+BACK TO THE TOP
+RSS Feed	Yahoo	Living	http://www.nydailynews.com/life-style/index_rss.xml
+RSS Feed	Yahoo	Homes	http://www.nydailynews.com/life-style/real-estate/index_rss.xml
+RSS Feed	Yahoo	Health	http://www.nydailynews.com/lifestyle/health/index_rss.xml
+RSS Feed	Yahoo	Food	http://www.nydailynews.com/life-style/eats/index_rss.xml
+RSS Feed	Yahoo	Horoscopes	http://www.nydailynews.com/life-style/horoscopes/index_rss.xml
+RSS Feed	Yahoo	Lifestyle Photos	http://www.nydailynews.com/life-style/photos/index_rss.xml
+BLOGS
+BACK TO THE TOP
+RSS Feed	Yahoo	Blogs	http://www.nydailynews.com/cmlink/NYDN.Blogs.rss
+RSS Feed	Yahoo	The Daily Politics	http://www.nydailynews.com/cmlink/NYDN.Blogs.The_Daily_Politics.rss
+RSS Feed	Yahoo	Mouth Of The Potomac	http://www.nydailynews.com/cmlink/NYDN.Blogs.Mouth_Of_The_Potomac.rss
+RSS Feed	Yahoo	The Blue Screen	http://www.nydailynews.com/cmlink/NYDN.Blogs.The_Blue_Screen.rss
+RSS Feed	Yahoo	Jets Stream	http://www.nydailynews.com/cmlink/NYDN.Blogs.The_Jets_Stream.rss
+RSS Feed	Yahoo	Blogging The Bombers	http://www.nydailynews.com/cmlink/NYDN.Blogs.Blogging_The_Bombers.rss
+RSS Feed	Yahoo	Surfing the Mets	http://www.nydailynews.com/cmlink/NYDN.Blogs.Surfing_The_Mets.rss
+RSS Feed	Yahoo	The Bitter Bill	http://www.nydailynews.com/cmlink/NYDN.Blogs.The_Bitter_Bill.rss
+RSS Feed	Yahoo	The Blueshirts Blog	http://www.nydailynews.com/cmlink/NYDN.Blogs.The_Blueshirts_Blog.rss
+RSS Feed	Yahoo	Knicks Knation	http://www.nydailynews.com/cmlink/NYDN.Blogs.Knicks_Knation.rss
+RSS Feed	Yahoo	The InterNets	http://www.nydailynews.com/cmlink/NYDN.Blogs.The_Internets.rss
+RSS Feed	Yahoo	The Schoolyard	http://www.nydailynews.com/cmlink/NYDN.Blogs.The_Schoolyard.rss
+RSS Feed	Yahoo	The Sports iTeam	http://www.nydailynews.com/cmlink/NYDN.Blogs.The_Sports_Iteam_Blog.rss
+RSS Feed	Yahoo	The Beautiful Blog	http://www.nydailynews.com/cmlink/NYDN.Blogs.The_Beautiful_Blog.rss
+RSS Feed	Yahoo	From the Bunker	http://www.nydailynews.com/cmlink/NYDN.Blogs.From_The_Bunker.rss
+RSS Feed	Yahoo	Running Dialogue	http://www.nydailynews.com/cmlink/NYDN.Blogs.Running_Dialogue.rss
+RSS Feed	Yahoo	Channel Surfer	http://www.nydailynews.com/cmlink/NYDN.Blogs.Channel_Surfer.rss
+RSS Feed	Yahoo	Page Views	http://www.nydailynews.com/cmlink/NYDN.Blogs.Page_Views.rss
+RSS Feed	Yahoo	Show and Tell	http://www.nydailynews.com/cmlink/NYDN.Blogs.Show_And_Tell.rss
+
+
+Read more: http://www.nydailynews.com/services/feeds#ixzz2zT3M6JvP

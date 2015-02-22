@@ -1,0 +1,19 @@
+&state_list_txt=<b>Vermont</b><br>
+<A href="http://www.timesargus.com" TARGET='_blank'>The Times-Argus</A> <BR>
+<A href="http://www.vt-world.com" TARGET='_blank'>The World</A> <BR>
+<A href="http://www.bartonchronicle.com" TARGET='_blank'>The Chronicle</A> <BR>
+<A href="http://www.benningtonbanner.com" TARGET='_blank'>Bennington Banner</A> <BR>
+<A href="http://www.jonews.com/" TARGET='_blank'>Journal Opinion</A> <BR>
+<A href="http://www.reformer.com" TARGET='_blank'>Brattleboro Reformer</A> <BR>
+<A href="http://www.burlingtonfreepress.com" TARGET='_blank'>Burlington Free Press</A> <BR>
+<A href="http://www.manchesterjournal.com/" TARGET='_blank'>Manchester Journal</A> <BR>
+<A href="http://www.addisonindependent.com" TARGET='_blank'>Addison County Independent</A> <BR>
+<A href="http://www.newsandcitizen.com/" TARGET='_blank'>News and Citizen</A> <BR>
+<A href="http://www.ourherald.com" TARGET='_blank'>The Herald of Randolph</A> <BR>
+<A href="http://www.rutlandherald.com" TARGET='_blank'>Rutland Herald</A> <BR>
+<A href="http://www.samessenger.com/" TARGET='_blank'>St. Albans Messenger</A> <BR>
+<A href="http://www.caledonian-record.com" TARGET='_blank'>Caledonian Record</A> <BR>
+<A href="http://www.stowereporter.com/" TARGET='_blank'>Stowe Reporter</A> <BR>
+<A href="http://www.valleyreporter.com" TARGET='_blank'>The Valley Reporter</A> <BR>
+<A href="http://www.dvalnews.com/" TARGET='_blank'>Deerfield Valley News</A> <BR>
+<A href="http://www.vnews.com" TARGET='_blank'>Valley News</A>

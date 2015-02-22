@@ -1,0 +1,4 @@
+http://rss.slashdot.org/Slashdot/slashdot
+http://dave.smallpict.com/rss.xml
+http://feeds.bbci.co.uk/news/rss.xml
+http://rss.cnn.com/rss/edition.rss

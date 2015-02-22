@@ -1,0 +1,548 @@
+Site: zaman
+# Web: http://www.zaman.com.tr/ 
+# P # RSS list: http://www.zaman.com.tr/rss_rssMainPage.action?sectionId=341
+http://www.zaman.com.tr/siir.rss
+http://www.zaman.com.tr/vitrindekiler.rss
+http://www.zaman.com.tr/otomobil.rss
+#http://www.zaman.com.tr/dosya.rss
+#http://www.zaman.com.tr/risale.rss
+http://www.zaman.com.tr/kultursanat.rss
+http://www.zaman.com.tr/din.rss
+http://www.zaman.com.tr/muzik.rss
+http://www.zaman.com.tr/medya.rss
+http://www.zaman.com.tr/.rss
+http://www.zaman.com.tr/lys.rss
+#http://www.zaman.com.tr/alisveris.rss
+http://www.zaman.com.tr/cumaertesi.rss
+http://www.zaman.com.tr/ab.rss
+#http://www.zaman.com.tr/oyku.rss
+http://www.zaman.com.tr/ailesaglik.rss
+http://www.zaman.com.tr/sinema.rss
+#http://www.zaman.com.tr/benimkitaplarim.rss
+http://www.zaman.com.tr/soylesi.rss
+http://www.zaman.com.tr/cuma.rss
+http://www.zaman.com.tr/tarim.rss
+http://www.zaman.com.tr/magazin.rss
+http://www.zaman.com.tr/roportaj.rss
+http://www.zaman.com.tr/ortadogu.rss
+http://www.zaman.com.tr/kursu.rss
+http://www.zaman.com.tr/sehir.rss
+http://www.zaman.com.tr/yazarlar.rss
+#http://www.zaman.com.tr/polisiye.rss
+http://www.zaman.com.tr/avrupa.rss
+http://www.zaman.com.tr/evlilik.rss
+http://www.zaman.com.tr/universite.rss
+http://www.zaman.com.tr/ortaogretim.rss
+http://www.zaman.com.tr/amerika.rss
+#http://www.zaman.com.tr/yemek.rss
+http://www.zaman.com.tr/finans.rss
+#http://www.zaman.com.tr/biyografi.rss
+#http://www.zaman.com.tr/elestiri.rss
+http://www.zaman.com.tr/spor.rss
+http://www.zaman.com.tr/cocukkitap.rss
+http://www.zaman.com.tr/ekonomi.rss
+http://www.zaman.com.tr/emlak.rss
+#http://www.zaman.com.tr/sporkitapligi.rss
+http://www.zaman.com.tr/asya.rss
+http://www.zaman.com.tr/ilkogretim.rss
+http://www.zaman.com.tr/tv-rehberi.rss
+#http://www.zaman.com.tr/dunyadan.rss
+http://www.zaman.com.tr/yorumlar.rss
+http://www.zaman.com.tr/bilisim.rss
+http://www.zaman.com.tr/afrika.rss
+#http://www.zaman.com.tr/ikitersbirduz.rss
+http://www.zaman.com.tr/guncel.rss
+#http://www.zaman.com.tr/kozmetik.rss
+#http://www.zaman.com.tr/birkitabinhikayesi.rss
+#http://www.zaman.com.tr/kapak.rss
+#http://www.zaman.com.tr/okuloncesi.rss
+#http://www.zaman.com.tr/dusunce.rss
+http://www.zaman.com.tr/gundem.rss
+http://www.zaman.com.tr/tarih.rss
+http://www.zaman.com.tr/pazar.rss
+http://www.zaman.com.tr/egitim.rss
+#http://www.zaman.com.tr/gezi.rss
+http://www.zaman.com.tr/sbs.rss
+http://www.zaman.com.tr/ramazan.rss
+#http://www.zaman.com.tr/tartisma.rss
+http://www.zaman.com.tr/suriye.rss
+http://www.zaman.com.tr/tasavvuf.rss
+http://www.zaman.com.tr/etkinlikler.rss
+http://www.zaman.com.tr/moda.rss
+http://www.zaman.com.tr/edebiyat.rss
+http://www.zaman.com.tr/sahaf.rss
+#http://www.zaman.com.tr/sanat.rss
+#http://www.zaman.com.tr/ygs.rss
+#http://www.zaman.com.tr/aktuel.rss
+http://www.zaman.com.tr/politika.rss
+http://www.zaman.com.tr/dishaberler.rss
+#http://www.zaman.com.tr/editorden.rss
+http://www.zaman.com.tr/kpss.rss
+#http://www.zaman.com.tr/ardindan.rss
+http://www.zaman.com.tr/cocuk.rss
+http://www.zaman.com.tr/kitap.rss
+#http://www.zaman.com.tr/okurmektubu.rss
+
+Site: posta
+# Web: http://www.posta.com.tr/ 
+# P # RSS list: http://www.posta.com.tr/rss
+#http://www.posta.com.tr/xml/posta_opensearch.xml
+http://www.posta.com.tr/xml/rss/rss_1_0.xml
+#http://www.posta.com.tr/xml/rss/rss_2_0.xml
+#http://www.posta.com.tr/xml/rss/rss_18_0.xml
+#http://www.posta.com.tr/xml/rss/rss_311_0.xml
+http://www.posta.com.tr/xml/rss/rss_5_0.xml
+http://www.posta.com.tr/xml/rss/rss_8_0.xml
+http://www.posta.com.tr/xml/rss/rss_6_0.xml
+#http://www.posta.com.tr/xml/rss/rss_312_0.xml
+http://www.posta.com.tr/xml/rss/rss_9_0.xml
+http://www.posta.com.tr/xml/rss/rss_4_0.xml
+http://www.posta.com.tr/xml/rss/rss_7_0.xml
+http://www.posta.com.tr/xml/rss/rss_3_0.xml
+http://www.posta.com.tr/xml/rss/rss_10_0.xml
+http://www.posta.com.tr/xml/rss/rss_309_0.xml
+http://www.posta.com.tr/xml/rss/rss_404_0.xml
+http://www.posta.com.tr/xml/rss/rss_352_0.xml
+http://www.posta.com.tr/xml/rss/rss_269_0.xml
+http://www.posta.com.tr/xml/rss/rss_400_0.xml
+http://www.posta.com.tr/xml/rss/rss_401_0.xml
+http://www.posta.com.tr/xml/rss/rss_402_0.xml
+http://www.posta.com.tr/xml/rss/rss_315_0.xml
+#http://www.posta.com.tr/xml/rss/rss_403_0.xml
+http://www.posta.com.tr/xml/rss/rss_273_0.xml
+http://www.posta.com.tr/xml/rss/rss_13_0.xml
+#http://www.posta.com.tr/asset/1.0.0-css/d/c/rss_.css?v=20
+#http://www.posta.com.tr/rss
+#http://ftp.e-kolay.net/haberci/E-kolayRSS.exe
+#http://blogspace.com/rss/readers
+#http://www.feedreader.com/
+#http://www.feedreader.com/translations/Turkish/translation.lng
+#http://www.feeddemon.com/download/
+
+Site: hurriyet
+# Web: http://www.hurriyet.com.tr/anasayfa/ 
+# P # RSS list: http://dosyalar.hurriyet.com.tr/rss/
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=1
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=2
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=4
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=2035
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=14
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=2249
+http://rss.hurriyet.com.tr/webtv.aspx
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=2158
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=2124
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=13
+http://rss.hurriyet.com.tr/Sinema.aspx
+http://rss.hurriyet.com.tr/TvRehberi.aspx
+#http://rss.hurriyet.com.tr/rss.aspx?sectionId=2180
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=9
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=131
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=162
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=344
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=12
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=420
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=105
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=4
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=260
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=84
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=8
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=18
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=83
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=10
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=174
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=20
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=387
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=50
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=386
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=25
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=48
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=173
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=148
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=325
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=350
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=80
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=113
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=141
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=257
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=149
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=95
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=210
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=119
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=313
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=106
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=308
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=82
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=92
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=329
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=322
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=41
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=44
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=42
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=91
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=249
+http://rss.hurriyet.com.tr/yazarlar.aspx?YazarID=232
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=434
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=227
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=428
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=24
+http://rss.hurriyet.com.tr/rss.aspx?sectionId=25
+#http://dosyalar.hurriyet.com.tr/rss/
+
+Site: sozcu
+# Web: http://sozcu.com.tr/ 
+http://sozcu.com.tr/rss.php
+
+Site: sabah
+# Web: http://www.sabah.com.tr/ 
+# P # RSS list: http://www.sabah.com.tr/rss_bilgi
+http://sabah.com.tr.feedsportal.com/c/33784/f/606058/index.rss
+http://www.sabah.com.tr/rss/anasayfa.xml
+http://www.sabah.com.tr/rss/son24saat.xml
+#http://www.sabah.com.tr/opensearch.xml
+http://www.sabah.com.tr/rss/SonDakika.xml
+http://www.sabah.com.tr/rss/gununicinden.xml
+http://www.sabah.com.tr/rss/Ekonomi.xml
+http://www.sabah.com.tr/rss/Gundem.xml
+http://www.sabah.com.tr/rss/Dunya.xml
+http://www.sabah.com.tr/rss/Spor.xml
+http://www.sabah.com.tr/rss/Teknoloji.xml
+http://www.sabah.com.tr/rss/Otomobil.xml
+http://www.sabah.com.tr/rss/Magazin.xml
+http://www.sabah.com.tr/rss/Saglik.xml
+http://www.sabah.com.tr/rss/Turizm.xml
+http://www.sabah.com.tr/rss/Yasam.xml
+http://www.sabah.com.tr/rss/Yazarlar.xml
+http://www.sabah.com.tr/rss/Vizyondakiler.xml
+http://www.sabah.com.tr/rss/Galatasaray.xml
+http://www.sabah.com.tr/rss/Fenerbahce.xml
+http://www.sabah.com.tr/rss/Besiktas.xml
+http://www.sabah.com.tr/rss/Trabzonspor.xml
+http://www.sabah.com.tr/rss/Bursaspor.xml
+http://www.sabah.com.tr/rss/kultur_sanat.xml
+http://www.sabah.com.tr/rss/NewYorkTimes.xml
+http://www.sabah.com.tr/rss/Gunaydin.xml
+http://www.sabah.com.tr/rss/Cumartesi.xml
+http://www.sabah.com.tr/rss/Pazar.xml
+http://www.sabah.com.tr/rss/Emlak.xml
+http://www.sabah.com.tr/rss/Egitim.xml
+#http://www.sabah.com.tr/rss_bilgi
+#http://www.rssreader.com/download.htm
+#http://directory.google.com/Top/Reference/Libraries/Library_and_Information_Science/Technical_Services/Cataloguing/Metadata/RDF/Applications/RSS/News_Readers/
+#http://www.feedburner.com/fb/a/mfr
+
+Site: haberturk
+# Web: http://www.haberturk.com/ 
+http://www.haberturk.com/rss
+
+Site: turkiyegazetesi
+# Web: http://www.turkiyegazetesi.com.tr/ 
+http://www.turkiyegazetesi.com.tr/rss/rss.xml
+
+Site: milliyet
+# Web: http://www.milliyet.com.tr/
+# P # RSS list: http://www.milliyet.com.tr/default.aspx?aType=Rss
+http://www.milliyet.com.tr/D/rss/rss/Rss_1.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_2.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_3.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_4.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_5.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_6.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_7.xml
+http://www.milliyet.com.tr/D/rss/rss/RssSD.xml
+http://www.milliyet.com.tr/D/rss/rss/RssY.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_31.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_32.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_36.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_38.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_39.xml
+http://blog.milliyet.com.tr/rss.xml
+#http://skorer.milliyet.com.tr/d/skorer.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_148.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_23.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_24.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_27.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_30.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_98.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_176.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_187.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_297.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_226.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_232.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_285.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_382.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_383.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_204.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_208.xml
+http://www.milliyet.com.tr/D/rss/rss/Rss_234.xml
+#http://www.milliyet.com.tr/default.aspx?aType=Rss
+#http://www.milliyet.com.tr/sabitimg/07/images/rssowl_1_2_3_win32.exe
+http://yorum.milliyet.com.tr/ashx/TopCommentsRss.ashx?Type=2&amp;CatID=-1
+http://yorum.milliyet.com.tr/ashx/TopCommentsRss.ashx?Type=1&amp;CatID=-1
+
+Site: bugun
+# Web: http://www.bugun.com.tr/ 
+http://www.bugun.com.tr/haberler.xml
+
+Site: star
+# Web: http://www.star.com.tr/ 
+# P # RSS list: http://www.stargazete.com/rss/
+http://www.stargazete.com/rss/sondakika.xml
+http://www.stargazete.com/rss/mansetler.xml
+http://www.stargazete.com/rss/yazarlar.xml
+http://www.stargazete.com/rss/guncel.xml
+http://www.stargazete.com/rss/politika.xml
+http://www.stargazete.com/rss/ekonomi.xml
+http://www.stargazete.com/rss/spor.xml
+http://www.stargazete.com/rss/dunya.xml
+http://www.stargazete.com/rss/sinema.xml
+http://www.stargazete.com/rss/sanat.xml
+http://www.stargazete.com/rss/magazin.xml
+http://www.stargazete.com/rss/medya.xml
+http://www.stargazete.com/rss/saglik.xml
+http://www.stargazete.com/rss/teknoloji.xml
+http://www.stargazete.com/rss/acikgorus.xml
+http://www.stargazete.com/rss/pazar.xml
+http://www.stargazete.com/rss/cumartesi.xml
+http://www.stargazete.com/rss/dizi.xml
+http://www.stargazete.com/rss/ankara.xml
+http://www.stargazete.com/rss/memurlar.xml
+#http://www.stargazete.com/rss
+#http://www.stargazete.com/rss/
+#http://www.feedreader.com/
+
+Site: yenisafak
+# Web: http://yenisafak.com.tr/ 
+http://yenisafak.com.tr/Rss/
+
+Site: takvim
+# Web: http://www.takvim.com.tr/ 
+# P # RSS list: http://www.takvim.com.tr/rss_bilgi
+http://www.takvim.com.tr/rss/AnaSayfa.xml
+http://www.takvim.com.tr/rss/Son24Saat.xml
+http://www.takvim.com.tr/rss/Guncel.xml
+http://www.takvim.com.tr/rss/Ekonomi.xml
+http://www.takvim.com.tr/rss/SosyalGuvenlik.xml
+http://www.takvim.com.tr/rss/Otomobil.xml
+http://www.takvim.com.tr/rss/Saklambac.xml
+http://www.takvim.com.tr/rss/Spor.xml
+http://www.takvim.com.tr/rss/Yasam.xml
+http://www.takvim.com.tr/rss/Video.xml
+http://www.takvim.com.tr/rss/Televizyon.xml
+http://www.takvim.com.tr/rss/Oyun.xml
+http://www.takvim.com.tr/rss/YemekTarifleri.xml
+http://www.takvim.com.tr/rss/Astroloji.xml
+http://www.takvim.com.tr/rss/Galeri.xml
+http://www.takvim.com.tr/rss/Yazarlar.xml
+#http://www.takvim.com.tr/rss_bilgi
+
+Site: aksam
+# Web: http://www.aksam.com.tr/ 
+http://www.aksam.com.tr/cache/rss.xml
+
+Site: gazetevatan
+# Web: http://www.gazetevatan.com 
+# P # RSS list: http://rss.gazetevatan.com/
+http://rss.gazetevatan.com/rss/gundem.xml
+http://rss.gazetevatan.com/rss/siyaset.xml
+http://rss.gazetevatan.com/rss/dunya.xml
+http://rss.gazetevatan.com/rss/ekonomi.xml
+http://rss.gazetevatan.com/rss/yasam.xml
+http://rss.gazetevatan.com/rss/magazin.xml
+http://rss.gazetevatan.com/rss/spor.xml
+http://rss.gazetevatan.com/rss/teknoloji.xml
+http://rss.gazetevatan.com/rss/yazar.xml
+#http://rss.gazetevatan.com/rss/rssowl.rar
+#http://rss.gazetevatan.com/
+
+Site: taraf
+# Web: http://www.taraf.com.tr/ 
+http://www.taraf.com.tr/rss/default.asp
+
+Site: yeniakit
+# Web: http://www.yeniakit.com.tr/ 
+http://www.yeniakit.com.tr/rss.php
+
+Site: aydinlikgazete
+# Web: http://www.aydinlikgazete.com/ 
+http://www.aydinlikgazete.com/index.php?format=feed&type=rss
+
+Site: cumhuriyet
+# Web: http://www.cumhuriyet.com.tr/ 
+# P # RSS list: http://www.cumhuriyet.com.tr/rss/
+http://www.cumhuriyet.com.tr/rss/son_dakika
+http://www.cumhuriyet.com.tr/rss/1
+http://www.cumhuriyet.com.tr/rss/25
+http://www.cumhuriyet.com.tr/rss/11
+http://www.cumhuriyet.com.tr/rss/13
+http://www.cumhuriyet.com.tr/rss/26
+http://www.cumhuriyet.com.tr/rss/5
+http://www.cumhuriyet.com.tr/rss/18
+http://www.cumhuriyet.com.tr/rss/6
+http://www.cumhuriyet.com.tr/rss/17
+http://www.cumhuriyet.com.tr/rss/24
+http://www.cumhuriyet.com.tr/rss/32
+http://www.cumhuriyet.com.tr/rss/33
+http://www.cumhuriyet.com.tr/rss/34
+http://www.cumhuriyet.com.tr/rss/35
+http://www.cumhuriyet.com.tr/rss/36
+http://www.cumhuriyet.com.tr/rss/19
+http://www.cumhuriyet.com.tr/rss/7
+http://www.cumhuriyet.com.tr/rss/14
+http://www.cumhuriyet.com.tr/rss/15
+http://www.cumhuriyet.com.tr/rss/16
+http://www.cumhuriyet.com.tr/rss/20
+http://www.cumhuriyet.com.tr/rss/12
+http://www.cumhuriyet.com.tr/rss/3
+http://www.cumhuriyet.com.tr/rss/9
+http://www.cumhuriyet.com.tr/rss/37
+http://www.cumhuriyet.com.tr/rss/38
+http://www.cumhuriyet.com.tr/rss/41
+http://www.cumhuriyet.com.tr/rss/4
+http://www.cumhuriyet.com.tr/rss/23
+http://www.cumhuriyet.com.tr/rss/27
+http://www.cumhuriyet.com.tr/rss/28
+http://www.cumhuriyet.com.tr/rss/29
+http://www.cumhuriyet.com.tr/rss/30
+http://www.cumhuriyet.com.tr/rss/31
+http://www.cumhuriyet.com.tr/rss/10
+http://www.cumhuriyet.com.tr/rss/2
+#http://www.cumhuriyet.com.tr/rss
+
+# Site: yeniasya
+# Web: http://www.yeniasya.com.tr/ 
+# RSS feeds not available
+
+Site: yurtgazetesi
+# Web: http://www.yurtgazetesi.com.tr/ 
+http://www.yurtgazetesi.com.tr/rss.php
+
+Site: radikal
+# Web: http://www.radikal.com.tr/ 
+# P # RSS list: http://www.radikal.com.tr/rss/
+http://www.radikal.com.tr/d/rss/Rss_85.xml
+#http://www.radikal.com.tr/d/rss/Rss_81.xml
+#http://www.radikal.com.tr/d/rss/Rss_80.xml
+#http://www.radikal.com.tr/d/rss/Rss_82.xml
+#http://www.radikal.com.tr/d/rss/Rss_78.xml
+#http://www.radikal.com.tr/d/rss/Rss_42.xml
+#http://www.radikal.com.tr/d/rss/Rss_41.xml
+http://www.radikal.com.tr/d/rss/Rss_40.xml
+http://www.radikal.com.tr/d/rss/Rss_120.xml
+#http://www.radikal.com.tr/d/rss/Rss_84.xml
+http://www.radikal.com.tr/d/rss/Rss_117.xml
+#http://www.radikal.com.tr/d/rss/Rss_77.xml
+#http://www.radikal.com.tr/d/rss/Rss_99.xml
+http://www.radikal.com.tr/d/rss/Blog.xml
+http://www.radikal.com.tr/d/rss/RssSD.xml
+http://www.radikal.com.tr/d/rss/RssYazarlar.xml
+http://www.radikal.com.tr/d/rss/RssYazar_301.xml
+http://www.radikal.com.tr/d/rss/RssYazar_400.xml
+http://www.radikal.com.tr/d/rss/RssYazar_361.xml
+http://www.radikal.com.tr/d/rss/RssYazar_37.xml
+http://www.radikal.com.tr/d/rss/RssYazar_418.xml
+http://www.radikal.com.tr/d/rss/RssYazar_41.xml
+http://www.radikal.com.tr/d/rss/RssYazar_396.xml
+http://www.radikal.com.tr/d/rss/RssYazar_69.xml
+http://www.radikal.com.tr/d/rss/RssYazar_359.xml
+http://www.radikal.com.tr/d/rss/RssYazar_70.xml
+http://www.radikal.com.tr/d/rss/RssYazar_402.xml
+http://www.radikal.com.tr/d/rss/RssYazar_338.xml
+http://www.radikal.com.tr/d/rss/RssYazar_392.xml
+http://www.radikal.com.tr/d/rss/RssYazar_62.xml
+http://www.radikal.com.tr/d/rss/RssYazar_284.xml
+http://www.radikal.com.tr/d/rss/RssYazar_309.xml
+http://www.radikal.com.tr/d/rss/RssYazar_366.xml
+http://www.radikal.com.tr/d/rss/RssYazar_417.xml
+http://www.radikal.com.tr/d/rss/RssYazar_349.xml
+http://www.radikal.com.tr/d/rss/RssYazar_350.xml
+http://www.radikal.com.tr/d/rss/RssYazar_410.xml
+http://www.radikal.com.tr/d/rss/RssYazar_158.xml
+http://www.radikal.com.tr/d/rss/RssYazar_398.xml
+http://www.radikal.com.tr/d/rss/RssYazar_320.xml
+http://www.radikal.com.tr/d/rss/RssYazar_78.xml
+http://www.radikal.com.tr/d/rss/RssYazar_414.xml
+http://www.radikal.com.tr/d/rss/RssYazar_333.xml
+http://www.radikal.com.tr/d/rss/RssYazar_310.xml
+http://www.radikal.com.tr/d/rss/RssYazar_311.xml
+http://www.radikal.com.tr/d/rss/RssYazar_46.xml
+http://www.radikal.com.tr/d/rss/RssYazar_58.xml
+http://www.radikal.com.tr/d/rss/RssYazar_327.xml
+http://www.radikal.com.tr/d/rss/RssYazar_73.xml
+http://www.radikal.com.tr/d/rss/RssYazar_416.xml
+http://www.radikal.com.tr/d/rss/RssYazar_337.xml
+http://www.radikal.com.tr/d/rss/RssYazar_412.xml
+http://www.radikal.com.tr/d/rss/RssYazar_60.xml
+http://www.radikal.com.tr/d/rss/RssYazar_358.xml
+http://www.radikal.com.tr/d/rss/RssYazar_312.xml
+http://www.radikal.com.tr/d/rss/RssYazar_403.xml
+http://www.radikal.com.tr/d/rss/RssYazar_401.xml
+http://www.radikal.com.tr/d/rss/RssYazar_332.xml
+http://www.radikal.com.tr/d/rss/RssYazar_67.xml
+http://www.radikal.com.tr/d/rss/RssYazar_313.xml
+http://www.radikal.com.tr/d/rss/RssYazar_306.xml
+http://www.radikal.com.tr/d/rss/RssYazar_79.xml
+http://www.radikal.com.tr/d/rss/RssYazar_411.xml
+http://www.radikal.com.tr/d/rss/RssYazar_53.xml
+http://www.radikal.com.tr/d/rss/RssYazar_80.xml
+http://www.radikal.com.tr/d/rss/RssYazar_305.xml
+http://www.radikal.com.tr/d/rss/RssYazar_407.xml
+http://www.radikal.com.tr/d/rss/RssYazar_415.xml
+http://www.radikal.com.tr/d/rss/RssYazar_275.xml
+http://www.radikal.com.tr/d/rss/RssYazar_355.xml
+http://www.radikal.com.tr/d/rss/RssYazar_399.xml
+http://www.radikal.com.tr/d/rss/RssYazar_316.xml
+http://www.radikal.com.tr/d/rss/RssYazar_294.xml
+http://www.radikal.com.tr/d/rss/RssYazar_404.xml
+http://www.radikal.com.tr/d/rss/RssYazar_409.xml
+http://www.radikal.com.tr/d/rss/RssYazar_285.xml
+http://www.radikal.com.tr/d/rss/RssYazar_315.xml
+http://www.radikal.com.tr/d/rss/RssYazar_419.xml
+http://www.radikal.com.tr/d/rss/RssYazar_336.xml
+http://www.radikal.com.tr/d/rss/RssYazar_76.xml
+http://www.radikal.com.tr/d/rss/RssYazar_39.xml
+http://www.radikal.com.tr/d/rss/RssYazar_391.xml
+http://www.radikal.com.tr/d/rss/RssYazar_360.xml
+http://www.radikal.com.tr/d/rss/RssYazar_52.xml
+http://www.radikal.com.tr/d/rss/RssYazar_65.xml
+http://www.radikal.com.tr/d/rss/RssYazar_364.xml
+http://www.radikal.com.tr/d/rss/RssYazar_397.xml
+http://www.radikal.com.tr/d/rss/RssYazar_408.xml
+http://www.radikal.com.tr/d/rss/RssYazar_365.xml
+http://www.radikal.com.tr/d/rss/RssYazar_406.xml
+http://www.radikal.com.tr/d/rss/RssYazar_413.xml
+#http://ftp.e-kolay.net/haberci/E-kolayRSS.exe
+#http://www.radikal.com.tr/rss/
+http://teknolog.radikal.com.tr/feed/
+#http://www.feedreader.com/
+#http://www.feeddemon.com/download/
+
+Site: haber.sol
+# Web: http://haber.sol.org.tr/ 
+http://haber.sol.org.tr/rss.xml
+
+Site: birgun
+# Web: http://birgun.net/
+# P # RSS list: http://birgun.net/rss
+#http://birgun.net/rss
+http://birgun.net/rssreader.asp?id=22
+http://birgun.net/rssreader.asp?id=23
+http://birgun.net/rssreader.asp?id=78
+http://birgun.net/rssreader.asp?id=57
+http://birgun.net/rssreader.asp?id=52
+http://birgun.net/rssreader.asp?id=58
+http://birgun.net/rssreader.asp?id=29
+http://birgun.net/rssreader.asp?id=60
+http://birgun.net/rssreader.asp?id=39
+http://birgun.net/rssreader.asp?id=73
+http://birgun.net/rssreader.asp?id=68
+http://birgun.net/rssreader.asp?id=42
+http://birgun.net/rssreader.asp?id=72
+http://birgun.net/rssreader.asp?id=64
+http://birgun.net/rssreader.asp?id=67
+http://birgun.net/rssreader.asp?id=56
+http://birgun.net/rssreader.asp?id=61
+http://birgun.net/rssreader.asp?id=62
+http://birgun.net/rssreader.asp?id=63
+http://birgun.net/rssreader.asp?id=76
+http://birgun.net/rssreader.asp?id=75
+http://birgun.net/rssreader.asp?id=79

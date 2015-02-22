@@ -1,0 +1,810 @@
+
+Electronic Databases for Social Service & Social Work Topics
+
+Addiction/Substance Abuse
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	PsycINFO (APA)
+	MEDLINE (OCLC)
+	MEDLINE (Ovid)
+	PubMed (MEDLINE)
+	Drug Abuse Warning Network
+	PAIS International (CSA)
+	Child Development & Adolescent Studies
+	CINAHL: Cumulative Index of Nursing and Allied Health (EBSCO)
+	Academic Search Premier (EBSCO)
+	ERIC (EBSCO)
+	ERIC (OCLC)
+	SCOPUS (Elsevier)
+	SCIRUS (Elsevier)
+Adoption/Foster Care
+	Child welfare information gateway
+	Child Trends DataBank
+	ChildStats.gov
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	Sociological Abstracts (CSA)
+	PsycINFO (APA)
+	Child Development & Adolescent Studies
+	Academic Search Premier (EBSCO)
+	SCOPUS (Elsevier)
+	Social Sciences Citation Index (ISI)
+Aged/Elderly/Gerontology
+	AgeLine (CSA)
+	Social Work Abstracts
+	CINAHL: Cumulative Index of Nursing and Allied Health (EBSCO)
+	Social Services Abstracts (CSA)
+	Sociological Abstracts (CSA)
+	MEDLINE (OCLC)
+	MEDLINE (Ovid)
+	PubMed (MEDLINE)
+	PsycINFO (APA)
+	CINAHL: Cumulative Index of Nursing and Allied Health (EBSCO)
+	SCOPUS (Elsevier)
+Biography
+	Biography and Genealogy Master Index
+	NASW Register of Clinical Social Workers
+	Marquis Who's Who on the Web
+	Wilson Biography Indices
+Book Reviews
+	Book Review Digest Retrospective (Wilson)
+	New York Times Book Review
+	Book Review Index Online
+	Humanities and Social Science Index Retrospective (Wilson)
+	IBR: International Bibliography of Book Reviews
+	PsycCRITIQUES (APA)
+Child/Children - policy, welfare, development, youth
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	Child Development & Adolescent Studies
+	Child welfare information gateway
+	ChildStats.gov
+	Child Trends DataBank
+	Child well-being index
+	Academic Search Premier (EBSCO)
+	Kids Count Data Book
+	Social Sciences Citation Index (ISI)
+	SCOPUS (Elsevier)
+Community Development/Organization/Services
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	PAIS International (CSA)
+	Sociological Abstracts (CSA)
+	LexisNexis Academic
+	Left index
+	Ethnic NewsWatch (ProQuest)
+	Alternative Press Index Archive (OCLC)
+	Alternative Press Index (OCLC)
+	ABI/INFORM Global (ProQuest)
+	Business Source Complete (EBSCO)
+	Regional Business News (EBSCO)
+	CIAO - Columbia International Affairs Online
+	Worldwide Political Science Abstracts (CSA)
+	American FactFinder
+	SCOPUS (Elsevier)
+Crime/Criminals/Corrections/Criminology - adult, juvenile
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	Sociological Abstracts (CSA)
+	Campbell Collaboration (Register of Campbell Systematic Reviews)
+	Criminal Justice Abstracts
+	Worldwide Political Science Abstracts (CSA)
+	NCJRS: National Criminal Justice Reference Service Virtual Library
+	Sourcebook of Criminal Justice Statistics
+	Academic Search Premier (EBSCO)
+	Social Sciences Citation Index (ISI)
+	PsycINFO (APA)
+	SCOPUS (Elsevier)
+	Public Documents Masterfile (Paratext)
+	ChildStats.gov
+	Child Trends DataBank
+Disability - developmental, mental, physical
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	Sociological Abstracts (CSA)
+	ChildStats.gov
+	CINAHL: Cumulative Index of Nursing and Allied Health (EBSCO)
+	MEDLINE (OCLC)
+	MEDLINE (Ovid)
+	PubMed (MEDLINE)
+	PsycINFO (APA)
+	Linguistics and Language Behavior Abstracts (CSA)
+	Academic Search Premier (EBSCO)
+	Social Sciences Citation Index (ISI)
+	PsychiatryOnline
+Economics
+	ABI/INFORM Global (ProQuest)
+	Business Source Complete (EBSCO)
+	EconLit with Full Text (EBSCO)
+	Factiva
+	Making of the Modern World: The Goldsmiths'-Kress Library of Economic Literature
+Education/Social Work Education/School Social Work/Special Education
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	ERIC (OCLC)
+	ERIC (EBSCO)
+	ChildStats.gov
+	Education Full Text (Wilson)
+	Educational Administration Abstracts
+	Child Trends DataBank
+	Professional development collection
+	LexisNexis Academic
+	LexisNexis Congressional
+	Child Development & Adolescent Studies
+	Education Index Retrospective 1929-1983 (Wilson)
+	International ERIC: Dialog@Site
+	World Education Encyclopedia
+	Campbell Collaboration (Register of Campbell Systematic Reviews)
+Family - policy, therapy
+	Social Work Abstracts
+	Child welfare information gateway
+	ChildStats.gov
+	Child Trends DataBank
+	Child well-being index
+	PsycINFO (APA)
+	PsycARTICLES (APA)
+	PsycBOOKS (APA)
+	PsycEXTRA (APA)
+	PsycCRITIQUES (APA)
+	PsychiatryOnline
+	MEDLINE (OCLC)
+	MEDLINE (Ovid)
+	PubMed (MEDLINE)
+	Social Services Abstracts (CSA)
+	Child Development & Adolescent Studies
+	Sociological Abstracts (CSA)
+	Academic Search Premier (EBSCO)
+	Family Law Reporter
+Gender Studies/Sexual Diversity
+	LGBT Life with Full Text (EBSCO)
+	CWI - Contemporary Women's Issues (OCLC)
+	Sociological Abstracts (CSA)
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	PsycINFO (APA)
+	PsycARTICLES (APA)
+	PsycBOOKS (APA)
+	PsycEXTRA (APA)
+	Child Development & Adolescent Studies
+Health/Medical Care - administration, policy
+	MEDLINE (OCLC)
+	MEDLINE (Ovid)
+	PubMed (MEDLINE)
+	SCIRUS (Elsevier)
+	SCOPUS (Elsevier)
+	ChildStats.gov
+	CINAHL: Cumulative Index of Nursing and Allied Health (EBSCO)
+	Health Source: Nursing/Academic Edition
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	PAIS International (CSA)
+	Social Sciences Citation Index (ISI)
+	Health and Psychosocial Instruments (HAPI)
+	EBM Reviews: ACP Journal Club (Ovid)
+	EBM Reviews: Database of Abstracts of Reviews of Effectiveness (DARE) (Ovid)
+	Cochrane Central Register of Controlled Trials (OVID)
+	Cochrane Database of Systematic Reviews (OVID)
+	PsycINFO (APA)
+History, US
+	America: History & Life
+	Reader's Guide Retrospective (Wilson)
+	HeritageQuest online
+	Academic Search Premier (EBSCO)
+	C19: The Nineteenth Century Index
+	Social Sciences Citation Index (ISI)
+	SCOPUS (Elsevier)
+	LexisNexis Academic
+	Archive finder
+	19th Century Masterfile
+	19th century U.S. newspapers
+	U.S. Supreme Court Records and Briefs, 1832-1978
+	Newspaper Source (EBSCO)
+	American Periodicals Series, 1740-1900 (APS Online)
+	Social Explorer
+	ArchiveGrid
+	U.S. Congressional Serial Set
+	U.S. Supreme Court Records and Briefs, 1832-1978
+	Public Documents Masterfile (Paratext)
+	Historical Statistics of the United States (Millennial Edition)
+	Women and Social Movements in the United States 1600-2000
+	Social welfare forum, Official proceedings [of the] annual forum (1874-1982)
+	Century of Lawmaking For a New Nation
+	Making of America
+	North American Immigrant Letters, Diaries, and Oral Histories
+History, world
+	Historical Abstracts (EBSCO)
+	17th-18th century Burney Collection newspapers
+	C19: The Nineteenth Century Index
+	SCOPUS (Elsevier)
+	Social Sciences Citation Index (ISI)
+	Proquest Newspapers
+	19th century British Library newspapers
+	Economist
+	Official Index to The Times
+	Making of the Modern World: The Goldsmiths'-Kress Library of Economic Literature
+Housing/Homelessness
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	ChildStats.gov
+	PAIS International (CSA)
+	Sociological Abstracts (CSA)
+	ABI/INFORM Global (ProQuest)
+	Business Source Complete (EBSCO)
+	SCOPUS (Elsevier)
+	Social Sciences Citation Index (ISI)
+	Facts on File
+	Academic Search Premier (EBSCO)
+	LexisNexis Academic
+International Social Services/Policy/Work/Welfare
+	PAIS International (CSA)
+	Worldwide Political Science Abstracts (CSA)
+	ChildStats.gov
+	Campbell Collaboration (Register of Campbell Systematic Reviews)
+	Sociological Abstracts (CSA)
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	International ERIC: Dialog@Site
+	Social Sciences Citation Index (ISI)
+	SCOPUS (Elsevier)
+	POPLINE
+	Population Index
+	Business Source Complete (EBSCO)
+	ABI/INFORM Global (ProQuest)
+	Factiva
+	CountryWatch
+	Human Rights Watch
+	Child Development & Adolescent Studies
+	Alternative Press Index (OCLC)
+	Alternative Press Index Archive (OCLC)
+	CIAO - Columbia International Affairs Online
+	IBZ: International Bibliography of Periodical Literature
+	World News Connection
+	Statesman's Yearbook
+	ABSEES- American Bibliography of Slavic and East European Studies (EBSCO)
+	BAS: Bibliography of Asian Studies
+	Central and Eastern European Online Library (CEEOL)
+	SourceOECD
+	Official Document System of the United Nations
+	AccessUN
+	United Nations Publications
+	United Nations Data
+	United Nations documentation: research guide
+	Yearbook of International Organizations
+	Research Guides for Foreign & International Law
+Management/Business
+	ABI/INFORM Global (ProQuest)
+	Business Source Complete (EBSCO)
+	Factiva
+	Regional Business News (EBSCO)
+	LexisNexis Academic
+	PsycINFO (APA)
+	SCOPUS (Elsevier)
+	Academic Search Premier (EBSCO)
+Nonprofits/Charities/Foundations
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	Charity navigator
+	Grants.gov
+	InsideGood
+	Business Source Complete (EBSCO)
+	ABI/INFORM Global (ProQuest)
+	PAIS International (CSA)
+	Sociological Abstracts (CSA)
+	Child Development & Adolescent Studies
+	SCOPUS (Elsevier)
+	Catalog of Federal Domestic Assistance
+	Grants.gov
+Poverty/Poor
+	ChildStats.gov
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	ABI/INFORM Global (ProQuest)
+	Business Source Complete (EBSCO)
+	EconLit with Full Text (EBSCO)
+	Sociological Abstracts (CSA)
+	Academic Search Premier (EBSCO)
+	Child Development & Adolescent Studies
+	SCOPUS (Elsevier)
+	PAIS International (CSA)
+Psychotherapy - adults, children
+	Social Work Abstracts
+	MEDLINE (OCLC)
+	MEDLINE (Ovid)
+	PubMed (MEDLINE)
+	PsycINFO (APA)
+	PsycARTICLES (APA)
+	PsycBOOKS (APA)
+	PsycEXTRA (APA)
+	CINAHL: Cumulative Index of Nursing and Allied Health (EBSCO)
+	Child Development & Adolescent Studies
+	PILOTS database
+	SCOPUS (Elsevier)
+	Academic Search Premier (EBSCO)
+	PEP: Psychoanalytic Electronic Publishing
+	CINAHL: Cumulative Index of Nursing and Allied Health (EBSCO)
+	EBM Reviews: ACP Journal Club (Ovid)
+	EBM Reviews: Database of Abstracts of Reviews of Effectiveness (DARE) (Ovid)
+	Cochrane Central Register of Controlled Trials (OVID)
+	Cochrane Database of Systematic Reviews (OVID)
+	PsychiatryOnline
+Public Policy
+	PAIS International (CSA)
+	Sociological Abstracts (CSA)
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	Social Sciences Citation Index (ISI)
+	GAO reports
+	SCOPUS (Elsevier)
+	ABI/INFORM Global (ProQuest)
+	Left index
+	Political science & government abstracts
+	Political Science Complete
+	Worldwide Political Science Abstracts (CSA)
+	Business Source Complete (EBSCO)
+	Alternative Press Index (OCLC)
+	Alternative Press Index Archive (OCLC)
+	Population Index
+	Poll Track
+	Gallup Brain
+	Roper Center for Public Opinion Research
+	CQ Electronic Library
+	Facts on File
+	LexisNexis Congressional
+	LexisNexis State Capital
+	U.S. Congressional Serial Set
+	LexisNexis Academic
+	Public Documents Masterfile (Paratext)
+	GPO Access (via USA.gov)
+	GPO Monthly Catalog
+	THOMAS: Legislative Information on the Internet
+	CILP: Current Index to Legal Periodicals
+	Human Rights Watch
+	Ethnic NewsWatch (ProQuest)
+	Proquest Newspapers
+	Century of Lawmaking For a New Nation
+	CQ Weekly (CQ Press)
+Race Relations/Racial Diversity/Minorities/Ethnic Groups
+	America: History & Life
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	SCOPUS (Elsevier)
+	Academic Search Premier (EBSCO)
+	Sociological Abstracts (CSA)
+	PAIS International (CSA)
+	Social Sciences Citation Index (ISI)
+	Ethnic NewsWatch (ProQuest)
+	Alternative Press Index (OCLC)
+	Alternative Press Index Archive (OCLC)
+	Anthropology Plus
+	HAPI: Hispanic American Periodicals Index
+	Chicano Database
+	ATLA Religion Database with ATLASerials (EBSCO)
+	Black Thought and Culture (BLTC)
+Religion/Spirituality
+	ATLA Religion Database with ATLASerials (EBSCO)
+	America: History & Life
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	SCOPUS (Elsevier)
+	Sociological Abstracts (CSA)
+	Philosopher's Index (CSA)
+	Catholic Periodical and Literature Index (EBSCO)
+	CINAHL: Cumulative Index of Nursing and Allied Health (EBSCO)
+Social Change/Activism/Advocacy
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	Sociological Abstracts (CSA)
+	PAIS International (CSA)
+	Alternative Press Index (OCLC)
+	Alternative Press Index Archive (OCLC)
+	Regional Business News (EBSCO)
+	Social Sciences Citation Index (ISI)
+Social Policy - service, welfare, work
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	PAIS International (CSA)
+	Left index
+	CILP: Current Index to Legal Periodicals
+	Sociological Abstracts (CSA)
+	SCOPUS (Elsevier)
+	Alternative Press Index (OCLC)
+	Alternative Press Index Archive (OCLC)
+	Political science & government abstracts
+	Political Science Complete
+	Worldwide Political Science Abstracts (CSA)
+	POPLINE
+	Population Index
+	Social Sciences Citation Index (ISI)
+	GEOBASE (OCLC)
+	Academic Search Premier (EBSCO)
+	ABI/INFORM Global (ProQuest)
+	Business Source Complete (EBSCO)
+	Regional Business News (EBSCO)
+	Human Rights Watch
+	Proquest Newspapers
+	GPO Access (via USA.gov)
+	GPO Monthly Catalog
+	Public Documents Masterfile (Paratext)
+	Social Theory
+	Campbell Collaboration (Register of Campbell Systematic Reviews)
+Social Science (general)
+	Academic Search Premier (EBSCO)
+	Social Sciences Citation Index (ISI)
+	Current Contents (ISI)
+	ProceedingsFirst (OCLC)
+	ArticleFirst (OCLC)
+	OmniFile FT Mega (Wilson)
+	SCOPUS (Elsevier)
+Statistics - on social work and social service topics
+	Statistical Abstracts (of the United States)
+	STAT-USA
+	LexisNexis Statistical
+	American FactFinder
+	SourceOECD
+	Sourcebook of Criminal Justice Statistics
+	Kids Count Data Book
+	Child welfare information gateway
+	ChildStats.gov
+	MapStats
+	Historical Statistics of the United States (Millennial Edition)
+Tests - assessment, psychological
+	Test Collection (UofChicago)
+	Mental Measurements Yearbook
+	Health and Psychosocial Instruments (HAPI)
+Urban Planning/Urban Studies/Urban History
+	Social Services Abstracts (CSA)
+	Social Work Abstracts
+	Left index
+	PAIS International (CSA)
+	Sociological Abstracts (CSA)
+	Political science & government abstracts
+	Political Science Complete
+	Worldwide Political Science Abstracts (CSA)
+	ABI/INFORM Global (ProQuest)
+	Business Source Complete (EBSCO)
+	Regional Business News (EBSCO)
+	Social Sciences Citation Index (ISI)
+	Academic Search Premier (EBSCO)
+	GEOBASE (OCLC)
+	Social Explorer
+	SCOPUS (Elsevier)
+Women
+	CWI - Contemporary Women's Issues (OCLC)
+	Social Work Abstracts
+	Social Services Abstracts (CSA)
+	SCOPUS (Elsevier)
+	Sociological Abstracts (CSA)
+	PsycINFO (APA)
+	LGBT Life with Full Text (EBSCO)
+	Women and Social Movements in the United States 1600-2000
+	ViVa: A Bibliography of Women's History
+
+----------------------------------------------------------------------------------------------------------
+
+Alphabetical list of referenced databases and their web addresses.
+Addresses beginning with a / are handles.
+Prepend http://www.lib.uchicago.edu to these to obtain a URL.
+
+
+17th-18th century Burney Collection newspapers
+	/h/burney
+19th century British Library newspapers
+	/h/19britnews
+19th Century Masterfile
+	/h/19cm
+19th century U.S. newspapers
+	/h/ncusn
+ABI/INFORM Global (ProQuest)
+	/h/abi
+ABSEES- American Bibliography of Slavic and East European Studies (EBSCO)
+	/h2/sbh
+Academic Search Premier (EBSCO)
+	/h2/aph
+AccessUN
+	/h/accun
+AgeLine (CSA)
+	/h/ageline
+Alternative Press Index (OCLC)
+	/h/altp
+Alternative Press Index Archive (OCLC)
+	/h/apia
+America: History & Life
+	/h/ahl
+American FactFinder
+	http://purl.access.gpo.gov/GPO/LPS7702
+American Periodicals Series, 1740-1900 (APS Online)
+	/h/aps
+Anthropology Plus
+	/h/anplus
+Archive finder
+	/h/archusa
+ArchiveGrid
+	/h/archgrd
+Archives USA
+	/h/archusa
+ArticleFirst (OCLC)
+	/h/artf
+ATLA Religion Database with ATLASerials (EBSCO)
+	/h/atla
+BAS: Bibliography of Asian Studies
+	/h/bas
+Biography and Genealogy Master Index
+	/h/biogmi
+Black Thought and Culture (BLTC)
+	/h/bltc
+Book Review Digest Retrospective (Wilson)
+	/h/brdr
+Book Review Index Online
+	/h/brio
+Business Source Complete (EBSCO)
+	/h2/bth
+C19: The Nineteenth Century Index
+	/h/c19
+Campbell Collaboration (Register of Campbell Systematic Reviews)
+	http://www.campbellcollaboration.org/index.html
+Catalog of Federal Domestic Assistance
+	http://purl.access.gpo.gov/GPO/LPS1729
+Catholic Periodical and Literature Index (EBSCO)
+	/h2/vah
+Central and Eastern European Online Library (CEEOL)
+	/h/ceeol
+Century of Lawmaking For a New Nation
+	http://memory.loc.gov/ammem/amlaw/lawhome.html
+Charity navigator
+	http://www.charitynavigator.org
+Chicano Database
+	/h/chicano
+Child Development & Adolescent Studies
+	/h/cdas
+Child Trends DataBank
+	http://www.childtrendsdatabank.org/
+Child welfare information gateway
+	http://www.childwelfare.gov
+Child well-being index
+	http://www.soc.duke.edu/%7Ecwi/
+ChildStats.gov
+	http://childstats.gov
+CIAO - Columbia International Affairs Online
+	/h/ciao
+CILP: Current Index to Legal Periodicals
+	/e/law/cilp
+CINAHL: Cumulative Index of Nursing and Allied Health (EBSCO)
+	/h/cinahl
+CIS: Current Index to Statistics
+	/h/cis
+Cochrane Central Register of Controlled Trials (OVID)
+	/h/ccrct
+Cochrane Database of Systematic Reviews (OVID)
+	/h/cdsr
+CountryWatch
+	/h/countrywatch
+CQ Electronic Library
+	/h/cqel
+CQ Weekly (CQ Press)
+	/h/cqweekly
+Criminal Justice Abstracts
+	/h/crimjusabs
+Current Contents (ISI)
+	/h/ccc
+CWI - Contemporary Women's Issues (OCLC)
+	/h/contemporarywomensissues
+Drug Abuse Warning Network
+	http://purl.access.gpo.gov/GPO/LPS79143
+EBM Reviews: ACP Journal Club (Ovid)
+	/h/ebmacpjc
+EBM Reviews: Database of Abstracts of Reviews of Effectiveness (DARE) (Ovid)
+	/h/ebmdare
+EconLit with Full Text (EBSCO)
+	/h/econlit
+Economist
+	/h/economist
+Education Full Text (Wilson)
+	/h/omnifile
+Education Index Retrospective 1929-1983 (Wilson)
+	/h/eir
+Educational Administration Abstracts
+	/h2/20h
+ERIC (EBSCO)
+	/h2/eric
+ERIC (OCLC)
+	/h/eric
+Ethnic NewsWatch (ProQuest)
+	/h/enw
+Factiva
+	/h/factiva
+Facts on File
+	http://www.2facts.com/
+FactSearch (OCLC)
+	/h/factsearch
+Family Law Reporter
+	/h/famlawrep
+Gallup Brain
+	/h/gallupbrain
+GAO reports
+	http://purl.access.gpo.gov/GPO/LPS16212
+GEOBASE (OCLC)
+	/h/geobase
+GPO Access (via USA.gov)
+	/h/gpoaccess
+GPO Monthly Catalog
+	/h/gpo
+Grants.gov
+	http://purl.access.gpo.gov/GPO/LPS41115
+HAPI: Hispanic American Periodicals Index
+	/h/hapi
+Health and Psychosocial Instruments (HAPI)
+	/h/hpi
+Health Source: Nursing/Academic Edition
+	/h2/hch
+HeritageQuest online
+	http://www.heritagequestonline.com/
+Historical Abstracts (EBSCO)
+	/h/histabs
+Historical Statistics of the United States (Millennial Edition)
+	/h/histstat
+Human Rights Watch
+	/h/hrw
+Humanities and Social Science Index Retrospective (Wilson)
+	/h/hssir
+IBR: International Bibliography of Book Reviews
+	/h/ibr
+IBZ: International Bibliography of Periodical Literature
+	/h/ibz
+InsideGood
+	http://www.insidegood.com
+International ERIC: Dialog@Site
+	/h/dialogsite
+Keesing's Record of World Events
+	/h/keesings
+Kids Count Data Book
+	http://www.aecf.org/kidscount/sld/databook.jsp
+Left index
+	/h2/left
+LexisNexis Academic
+	/h/lexisnexis
+LexisNexis Congressional
+	/h/congcomp
+LexisNexis State Capital
+	/h/stcapuniv
+LexisNexis Statistical
+	/h/statuniv
+LGBT Life with Full Text (EBSCO)
+	/h2/qth
+Linguistics and Language Behavior Abstracts (CSA)
+	/h/llba
+Making of America
+	http://moa.umdl.umich.edu/
+Making of the Modern World: The Goldsmiths'-Kress Library of Economic Literature
+	http://infotrac.galegroup.com/itweb/chic_rbw?db=MOME
+MapStats
+	http://purl.access.gpo.gov/GPO/LPS80974
+Marquis Who's Who on the Web
+	/h/whoswho
+MEDLINE (OCLC)
+	/h/oclcmedline
+MEDLINE (Ovid)
+	/h/ovidmedline
+Mental Measurements Yearbook
+	/h/mmy
+NASW Register of Clinical Social Workers
+	/h/naswrcsw
+NCJRS: National Criminal Justice Reference Service Virtual Library
+	/h/ncjrs
+New York Times Book Review
+	http://proquest.umi.com/pqdweb?RQT=318&VName=PQD&clientid=13392&pmid=7850
+Newspaper Source (EBSCO)
+	/h2/nfh
+North American Immigrant Letters, Diaries, and Oral Histories
+	/h/naildoh
+Official Document System of the United Nations
+	/h/odsus
+Official Index to The Times
+	/h/oit
+OmniFile FT Mega (Wilson)
+	/h/omnifile
+PAIS International (CSA)
+	/h/pais
+PEP: Psychoanalytic Electronic Publishing
+	/h/pep
+Philosopher's Index (CSA)
+	/h/philindex
+PILOTS database
+	http://www.ncptsd.va.gov/ncmain/publications/pilots/index.html
+Political science & government abstracts
+	/h/wwpsa
+Political Science Complete
+	/h2/poh
+Poll Track
+	/h/polltrack
+POPLINE
+	/h/popline
+Population Index
+	/h/popindex
+ProceedingsFirst (OCLC)
+	/h/proceedingsfirst
+Professional development collection
+	/h2/tfh
+Proquest Newspapers
+	/h/pqnewsstand
+PsycARTICLES (APA)
+	/h/apanet
+PsycBOOKS (APA)
+	/h/psycbooks
+PsycCRITIQUES (APA)
+	/h/psyccritiques
+PsycEXTRA (APA)
+	/h/psycbooks
+PsychiatryOnline
+	/h/appi
+PsycINFO (APA)
+	/h/psycinfo
+Public Documents Masterfile (Paratext)
+	/h/pubdocs
+PubMed (MEDLINE)
+	http://purl.access.gpo.gov/GPO/LPS1783
+Reader's Guide Retrospective (Wilson)
+	/h/readersguide
+Regional Business News (EBSCO)
+	/h2/bwh
+Reports & Testimonies (GAO)
+	http://purl.access.gpo.gov/GPO/LPS113321
+Research Guides for Foreign & International Law
+	http://guides.lib.uchicago.edu/content.php?pid=67915&sid=594452
+Roper Center for Public Opinion Research
+	/h/ropercenter
+SCIRUS (Elsevier)
+	/h/scirus
+SCOPUS (Elsevier)
+	/h/scopus
+Social Explorer
+	/h/socialexplorer
+Social Sciences Citation Index (ISI)
+	/h/ssci
+Social Services Abstracts (CSA)
+	/h/ssabs
+Social Theory
+	http://soth.alexanderstreet.com
+Social welfare forum, Official proceedings [of the] annual forum (1874-1982)
+	http://www.hti.umich.edu/n/ncosw/
+Social Work Abstracts
+	/h2/swh
+Sociological Abstracts (CSA)
+	/h/sociologicalabstracts
+Sourcebook of Criminal Justice Statistics
+	http://proxy.uchicago.edu/login?url=http://purl.access.gpo.gov/GPO/LPS3639
+SourceOECD
+	/h/sourceoecd
+STAT-USA
+	/h/statusa
+Statesman's Yearbook
+	/h/syb
+Statistical Abstracts (of the United States)
+	/h/census
+Test Collection (UofChicago)
+	/e/su/tests/
+THOMAS: Legislative Information on the Internet
+	/h/thomas
+U.S. Congressional Serial Set
+	http://www.lexisnexis.com/congcomp
+U.S. Supreme Court Records and Briefs, 1832-1978
+	/h/usscrb
+United Nations Data
+	http://data.un.org
+United Nations documentation: research guide
+	http://www.un.org/Depts/dhl/resguide/
+United Nations Publications
+	http://bibpurl.oclc.org/web/16394
+ViVa: A Bibliography of Women's History
+	/h/viva
+Wilson Biography Indices
+	http://vnweb.hwwilsonweb.com.proxy.uchicago.edu/hww/jumpstart.jhtml
+Women and Social Movements in the United States 1600-2000
+	/h/wass
+World Education Encyclopedia
+	/h/wee
+World News Connection
+	/h/worldnews
+Worldwide Political Science Abstracts (CSA)
+	/h/wwpsa
+Yearbook of International Organizations
+	/h/ybio

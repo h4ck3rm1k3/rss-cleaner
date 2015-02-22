@@ -1,0 +1,22 @@
+{
+	"name": "rss-scraper",
+	"private": true,
+	"version": "0.0.1",
+	"description": "Search and normalize RSS feeds and webpage URLs.",
+	"main": "src/search.js",
+	"scripts": {
+		"start": "node src/search.js && sort ./output/urls-list | uniq -u > ./output/uniq-urls-list"
+	},
+	"dependencies": {
+		"async": "~0.9.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Sagacify/sgs-scraper-arbiter"
+	},
+	"author": "Mickael van der Beek (https://github.com/Mickael-van-der-Beek)",
+	"bugs": {
+		"url": "https://github.com/Sagacify/sgs-scraper-arbiter/issues"
+	},
+	"homepage": "https://github.com/Sagacify/sgs-scraper-arbiter"
+}

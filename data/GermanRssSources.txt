@@ -1,0 +1,503 @@
+﻿Site: handelsblatt
+# URL: http://www.handelsblatt.com/
+# P # RSS list: http://www.handelsblatt.com/rss-feeds/
+#http://ad.de.doubleclick.net/jump/hcfhb/rss-feeds/;kw=hcfhb,rss-feeds,;doc=index;sz=728x90,800x250;tile=1;tma=default;ord=123456789?
+#http://ad.de.doubleclick.net/jump/hcfhb/rss-feeds/;kw=hcfhb,rss-feeds,;doc=index;sz=120x600,160x600,200x600;tile=2;tma=default;ord=123456789?
+#http://www.handelsblatt.com/rss-feeds/
+#http://www.handelsblatt.com/rss-newsfeed/
+#http://ad.de.doubleclick.net/jump/hcfhb/rss-feeds/;kw=hcfhb,rss-feeds,;doc=index;sz=150x150;tile=14;tma=default;ord=123456789?
+#http://ad.de.doubleclick.net/jump/hcfhb/rss-feeds/;kw=hcfhb,rss-feeds,;doc=index;sz=930x200;tile=15;tma=default;ord=123456789?
+http://www.handelsblatt.com/contentexport/feed/top-themen/
+http://www.handelsblatt.com/contentexport/feed/schlagzeilen
+http://www.handelsblatt.com/contentexport/feed/wirtschaft
+http://www.handelsblatt.com/contentexport/feed/top-themen
+http://www.handelsblatt.com/contentexport/feed/finanzen
+http://www.handelsblatt.com/contentexport/feed/marktberichte
+http://www.handelsblatt.com/contentexport/feed/unternehmen
+http://www.handelsblatt.com/contentexport/feed/politik
+http://www.handelsblatt.com/contentexport/feed/technologie
+http://www.handelsblatt.com/contentexport/feed/meinung
+http://www.handelsblatt.com/contentexport/feed/panorama
+http://www.handelsblatt.com/contentexport/feed/bildergalerien
+
+Site: boerse-online
+# URL: http://www.boerse-online.de/
+# P # RSS list: http://www.boerse-online.de/dienste/newsupdate
+#http://www.boerse-online.de/opensearch.xml
+http://www.boerse-online.de/rss
+http://www.boerse-online.de/rss/maerkte
+http://www.boerse-online.de/rss/maerkte/chartanalyse
+http://www.boerse-online.de/rss/aktie
+http://www.boerse-online.de/rss/aktie/chartanalyse
+http://www.boerse-online.de/rss/zertifikat
+
+Site: boersen-zeitung
+# URL: http://www.boersen-zeitung.de/index.php
+# P # RSS list: https://www.boersen-zeitung.de/index.php?li=81
+#https://www.boersen-zeitung.de/search_engine_friendly/sitemap.xml
+#https://www.boersen-zeitung.de/search_engine_friendly/sitemap_kurse.xml
+https://www.boersen-zeitung.de/xml_base/rss.php
+https://www.boersen-zeitung.de/xml_base/rss_topflop.php
+https://www.boersen-zeitung.de/xml_base/rss_15_news.php
+https://www.boersen-zeitung.de/xml_base/rss_bz.php?artsubm=vorschau
+https://www.boersen-zeitung.de/xml_base/rss_bz.php?artsubm=deriv
+https://www.boersen-zeitung.de/xml_base/rss_bz.php?artsubm=erste
+https://www.boersen-zeitung.de/xml_base/rss_bz.php?artsubm=unb
+https://www.boersen-zeitung.de/xml_base/rss_bz.php?artsubm=fmk
+https://www.boersen-zeitung.de/xml_base/rss_bz.php?artsubm=bank
+https://www.boersen-zeitung.de/xml_base/rss_bz.php?artsubm=konj
+https://www.boersen-zeitung.de/xml_base/rss_bz.php?artsubm=res
+https://www.boersen-zeitung.de/xml_base/rss_bz.php?artsubm=unt
+https://www.boersen-zeitung.de/xml_base/rss_bz.php?artsubm=per
+https://www.boersen-zeitung.de/xml_base/rss_bz.php?artsubm=km
+https://www.boersen-zeitung.de/xml_base/rss_kalender_de.php
+https://www.boersen-zeitung.de/xml_base/rss_rendite.php
+https://www.boersen-zeitung.de/xml_base/rss.php?dpasubm=aho
+https://www.boersen-zeitung.de/xml_base/rss.php?dpasubm=tt
+https://www.boersen-zeitung.de/xml_base/rss.php?dpasubm=mar
+https://www.boersen-zeitung.de/xml_base/rss.php?dpasubm=unt
+https://www.boersen-zeitung.de/xml_base/rss.php?dpasubm=ana
+
+Site: capital
+# URL: http://www.capital.de
+http://www.capital.de/rss
+
+Site: cash-flow
+# URL: http://www.cash-flow.cc/?page_id=382
+http://www.cash-flow.net/feed/
+
+Site: cio
+# URL: http://www.cio.de/
+# P # RSS list: http://www.cio.de/p/rss,3943
+http://www.idgevents.de/rss/events.xml
+#http://www.cio.de/p/rss,3943
+http://www.cio.de/feed/all
+http://www.cio.de/feed/p/3932
+http://www.cio.de/feed/p/3931
+
+Site: deutsche-handwerks-zeitung
+# URL: http://www.deutsche-handwerks-zeitung.de/
+http://www.deutsche-handwerks-zeitung.de/rss/news.xml
+
+Site: handwerksblatt
+# URL: http://www.handwerksblatt.de/
+# P # RSS list: http://www.handwerksblatt.de/rss.html
+#http://www.handwerksblatt.de/rss.html
+http://www.handwerksblatt.de/component/obrss/handwerksblatt-de.html
+#http://www.handwerksblatt.de/rss.html?tmpl=component&amp;print=1&amp;page=
+#http://www.handwerksblatt.de/rss.html/#addcomments
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=3
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=4
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=5
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=6
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=7
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=8
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=9
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=10
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=11
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=12
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=13
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=14
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=15
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=16
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=17
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=18
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=19
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=20
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=21
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=22
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=25
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=31
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=33
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=24
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=23
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=32
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=30
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=28
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=36
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=35
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=26
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=34
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=37
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=27
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=38
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=29
+http://www.handwerksblatt.de/index.php?option=com_obrss&amp;task=feed&amp;id=39
+#http://www.handwerksblatt.de/rss.html?&amp;el_mcal_month=12&amp;el_mcal_year=2014
+#http://www.handwerksblatt.de/rss.html?&amp;el_mcal_month=2&amp;el_mcal_year=2015
+
+Site: finanzen.net
+# URL: http://www.finanzen.net/
+# P # RSS list: http://www.finanzen.net/dienste/rss
+#http://www.finanzen.net/opensearch/finanzen.xml
+http://www.finanzen.net/rss/news
+http://www.finanzen.net/rss/analysen
+http://www.finanzen.net/rss/eurams
+http://www.finanzen.net/rss/videos
+#http://www.finanzen.net/dienste/rss
+#http://www.feedreader.com/
+
+Site: focus-finanzen
+# URL: http://www.focus.de/finanzen/
+http://rss2.focus.de/c/32191/f/443317/index.rss
+
+Site: spiegel
+# URL: http://www.spiegel.de/
+# P # RSS list: http://www.spiegel.de/dienste/a-634260.html
+http://www.spiegel.de/schlagzeilen/index.rss
+http://www.spiegel.de/schlagzeilen/tops/index.rss
+http://www.spiegel.de/schlagzeilen/eilmeldungen/index.rss
+http://www.spiegel.de/video/index.rss
+http://www.spiegel.de/politik/index.rss
+http://www.spiegel.de/politik/deutschland/index.rss
+http://www.spiegel.de/politik/ausland/index.rss
+http://www.spiegel.de/video/politik_wirtschaft/index.rss
+http://www.spiegel.de/wirtschaft/index.rss
+http://www.spiegel.de/wirtschaft/service/index.rss
+http://www.spiegel.de/wirtschaft/unternehmen/index.rss
+http://www.spiegel.de/wirtschaft/soziales/index.rss
+http://www.spiegel.de/panorama/index.rss
+http://www.spiegel.de/panorama/justiz/index.rss
+http://www.spiegel.de/panorama/gesellschaft/index.rss
+http://www.spiegel.de/panorama/leute/index.rss
+http://www.spiegel.de/video/panorama/index.rss
+http://www.spiegel.de/sport/index.rss
+http://www.spiegel.de/sport/fussball/index.rss
+http://www.spiegel.de/sport/formel1/index.rss
+http://www.spiegel.de/video/sport/index.rss
+http://www.spiegel.de/kultur/index.rss
+http://www.spiegel.de/kultur/kino/index.rss
+http://www.spiegel.de/kultur/musik/index.rss
+http://www.spiegel.de/kultur/tv/index.rss
+http://www.spiegel.de/kultur/literatur/index.rss
+http://www.spiegel.de/video/kino/index.rss
+http://www.spiegel.de/video/kultur/index.rss
+http://www.spiegel.de/netzwelt/index.rss
+http://www.spiegel.de/netzwelt/netzpolitik/index.rss
+http://www.spiegel.de/netzwelt/web/index.rss
+http://www.spiegel.de/netzwelt/gadgets/index.rss
+http://www.spiegel.de/netzwelt/games/index.rss
+http://www.spiegel.de/thema/fotografie/index.rss
+http://www.spiegel.de/video/wissenschaft_technik/index.rss
+http://www.spiegel.de/wissenschaft/index.rss
+http://www.spiegel.de/wissenschaft/mensch/index.rss
+http://www.spiegel.de/wissenschaft/natur/index.rss
+http://www.spiegel.de/wissenschaft/technik/index.rss
+http://www.spiegel.de/wissenschaft/weltall/index.rss
+http://www.spiegel.de/wissenschaft/medizin/index.rss
+http://www.spiegel.de/gesundheit/index.rss
+http://www.spiegel.de/gesundheit/diagnose/index.rss
+http://www.spiegel.de/gesundheit/ernaehrung/index.rss
+http://www.spiegel.de/gesundheit/psychologie/index.rss
+http://www.spiegel.de/gesundheit/sex/index.rss
+http://www.spiegel.de/gesundheit/schwangerschaft/index.rss
+http://www.spiegel.de/karriere/index.rss
+http://www.spiegel.de/karriere/berufsstart/index.rss
+http://www.spiegel.de/karriere/berufsleben/index.rss
+http://www.spiegel.de/karriere/ausland/index.rss
+http://www.spiegel.de/unispiegel/index.rss
+http://www.spiegel.de/unispiegel/jobundberuf/index.rss
+http://www.spiegel.de/unispiegel/studium/index.rss
+http://www.spiegel.de/unispiegel/wunderbar/index.rss
+http://www.spiegel.de/schulspiegel/index.rss
+http://www.spiegel.de/schulspiegel/abi/index.rss
+http://www.spiegel.de/schulspiegel/ausland/index.rss
+http://www.spiegel.de/schulspiegel/leben/index.rss
+http://www.spiegel.de/schulspiegel/wissen/index.rss
+http://www.spiegel.de/reise/index.rss
+http://www.spiegel.de/reise/staedte/index.rss
+http://www.spiegel.de/reise/deutschland/index.rss
+http://www.spiegel.de/reise/europa/index.rss
+http://www.spiegel.de/reise/fernweh/index.rss
+http://www.spiegel.de/auto/index.rss
+http://www.spiegel.de/auto/fahrberichte/index.rss
+http://www.spiegel.de/auto/fahrkultur/index.rss
+#http://www.spiegel.de/video/satire_blogs/index.rss
+http://www.spiegel.de/video/spiegeltv/index.rss
+http://www.spiegel.de/einestages/index.rss
+http://www.spiegel.de/spam/index.rss
+#http://www.spiegel.de/wikipedia/RSS.html
+#http://www.google.com/Top/World/Deutsch/Computer/Datenformate/Markup_Languages/XML/RSS/
+#http://www.rss-verzeichnis.de/rss-reader.php
+#https://www.xing.com/app/user?op=share;url=http://www.spiegel.de/dienste/a-634260.html;title=RSS+-+SPIEGEL+ONLINE+-+Nachrichten+-+Entdecken
+#http://del.icio.us/post?url=http://www.spiegel.de/dienste/a-634260.html&amp;title=RSS+-+SPIEGEL+ONLINE+-+Nachrichten+-+Entdecken
+#http://digg.com/submit?phase=2&amp;url=http://www.spiegel.de/dienste/a-634260.html&amp;title=RSS+-+SPIEGEL+ONLINE+-+Nachrichten+-+Entdecken
+#http://reddit.com/submit?url=http://www.spiegel.de/dienste/a-634260.html&amp;title=RSS+-+SPIEGEL+ONLINE+-+Nachrichten+-+Entdecken
+#http://www.netzwelt.de/download/4279-feedreader.html
+
+Site: impulse
+# URL: http://www.impulse.de
+http://www.impulse.de/feed
+
+Site: manager-magazin
+# URL: http://www.manager-magazin.de/
+# P # RSS list: http://www.manager-magazin.de/extra/mobil/a-350787.html
+http://www.manager-magazin.de/news/index.rss
+http://www.manager-magazin.de/unternehmen/index.rss
+#https://plusone.google.com/_/+1/confirm?hl=de&url=http://www.manager-magazin.de/extra/mobil/a-350787.html&title=RSS-Newsfeed:+Wirtschaft+live
+#http://de.facebook.com/sharer.php?u=http://www.manager-magazin.de/extra/mobil/a-350787.html&amp;t=RSS-Newsfeed:+Wirtschaft+live
+#http://www.myrss.de/
+#http://www.rss-verzeichnis.de/rss-reader.php
+#http://del.icio.us/post?url=http://www.manager-magazin.de/extra/mobil/a-350787.html&amp;title=RSS-Newsfeed:+Wirtschaft+live
+#http://www.pinterest.com/pin/create/button/?url=http://www.manager-magazin.de/extra/mobil/a-350787.html&description=RSS-Newsfeed:+Wirtschaft+live&media=http://www.manager-magazin.de/images/image-330146-galleryV9-rvsr.jpg
+#http://www.manager-magazin.de/extra/newsfeed/
+
+Site: marktundmittelstand
+# URL: http://www.marktundmittelstand.de/
+http://www.marktundmittelstand.de/rss.xml
+
+Site: vdi-nachrichten
+# URL: http://www.vdi-nachrichten.com/
+# P # RSS list: http://www.vdi-nachrichten.com/RSS-Newsfeed
+#http://www.vdi-nachrichten.com/RSS-Newsfeed
+http://www.vdi-nachrichten.com/rss/feed/artikel
+#http://de.wikipedia.org/wiki/RSS
+
+Site: wiwo
+# URL: http://www.wiwo.de/
+http://www.wiwo.de/contentexport/feed/rss/schlagzeilen
+
+Site: n-tv
+# URL: http://www.n-tv.de/
+# P # RSS list: http://www.n-tv.de/software/RSS-Feeds-article6210.html
+#http://www.n-tv.de/software/RSS-Feeds-article6210.html
+#http://mobil.n-tv.de/software/RSS-Feeds-article6210.html
+http://www.n-tv.de/software/rss
+http://www.n-tv.de/rss
+http://www.n-tv.de/wirtschaft/rss
+#http://www.n-tv.de/feeds
+
+Site: focus
+# URL: http://www.focus.de
+# P # RSS list: http://www.focus.de/service/rss/immer-top-informiert-rss-auf-focus-online_aid_13713.html
+http://rss.focus.de/fol/XML/rss_folnews.xml
+http://rss.focus.de/fol/XML/rss_folnews_eilmeldungen.xml
+#http://www.focus.de/service/rss/immer-top-informiert-rss-auf-focus-online_aid_13713.html
+#http://m.focus.de/service/rss/immer-top-informiert-rss-auf-focus-online_aid_13713.html
+#http://www.focus.de/service/rss/
+#http://www.focus.de/service/rss/immer-top-informiert-rss-auf-focus-online_aid_13713.html?fbc=googleplus-shares
+#http://www.focus.de/schlagwoerter/themen/r/rss/
+
+Site: schmidtutz.wordpress.com
+https://schmidtutz.wordpress.com/feed/
+
+Site: blog.zeit.de
+http://blog.zeit.de/herdentrieb/feed
+
+Site: aktientagebuchblog.de
+http://www.aktientagebuchblog.de/feed
+
+Site: fils.at
+http://www.fils.at/feed/
+
+Site: aktien-strategien.blogspot.com
+http://aktien-strategien.blogspot.com/feeds/posts/default?alt=rss
+
+Site: aktien-blog.de
+http://www.aktien-blog.de/rss.xml
+
+Site: aktien-blog.com
+http://aktien-blog.com/feed
+
+Site: aktien-tipps.com
+http://aktien-tipps.com/feed/
+
+Site: aktien-blog.over-blog.com
+http://aktien-blog.over-blog.com/rss-articles.xml
+
+Site: aktien-tagebuch.de
+http://www.aktien-tagebuch.de/feed/
+
+Site: simple-value-investing.de
+http://feeds.feedburner.com/investment-analyse
+
+Site: start-trading.de
+http://www.start-trading.de/feed/
+
+Site: goldseitenblog.com
+http://www.goldseitenblog.com/goldseitenblogs.php?tempskin=_rss2
+
+Site: valueblog.de
+http://www.valueblog.de/feed
+
+Site: blog.boersennews.de
+http://blog.boersennews.de/feed
+
+Site: mastertraders.de
+http://www.mastertraders.de/feed/der-mastertrader/
+http://www.mastertraders.de/feed/highperformance-aktien/
+http://www.mastertraders.de/feed/der-high-leverage-trader/
+http://www.mastertraders.de/feed/nebenwerte-investor/
+
+Site: blog.wiwo.de
+http://blog.wiwo.de/hankes-boersen-bibliothek/feed/
+
+Site: boersenblog.finanzen.net
+http://www.finanzen.net/rss/news
+http://www.finanzen.net/rss/ranalysen
+http://www.finanzen.net/rss/eurams
+
+Site: aktien-kaufen-fuer-anfaenger.de
+http://www.aktien-kaufen-fuer-anfaenger.de/feed/
+
+Site: torstenmaue.com
+http://xml.feedcat.net/823435
+
+Site: bluemelstaunt.com
+http://www.bluemelstaunt.com/feeds/posts/default?alt=rss
+
+Site: jotrader.bplaced.net
+http://jotrader.bplaced.net/wp/?feed=rss2
+
+Site: nextturtle.blogspot.de
+http://feeds.feedburner.com/blogspot/LNwel?format=xml
+
+Site: geld-kompakt.de
+http://www.geld-kompakt.de/feed/
+
+Site: direktbankvergleich.de
+http://www.direktbankvergleich.de/feed/news.php
+
+Site: finblog.de
+http://feeds.feedburner.com/finblogde
+
+Site: conserio.at
+http://feeds.feedburner.com/conseriofeed?format=xml
+
+Site: blogfinanzen.de
+http://feeds.feedburner.com/blogfinanzen?format=xml
+
+Site: be24.at
+http://www.be24.at/rss
+
+Site: financeblog.ch
+http://feeds2.feedburner.com/financeblogch
+
+Site: blog.tagesanzeiger.ch
+# P # RSS list: http://www.tagesanzeiger.ch/dienste/RSS/story/21856776
+http://www.tagesanzeiger.ch/rss_ticker.html
+#http://www.tagesanzeiger.ch/dienste/RSS/story/21856776
+#http://www.tagesanzeiger.ch//dienste/RSS/story/21856776
+http://www.tagesanzeiger.ch/rss.html
+http://www.tagesanzeiger.ch/schweiz/rss.html
+http://www.tagesanzeiger.ch/zuerich/rss.html
+http://www.tagesanzeiger.ch/ausland/rss.html
+http://www.tagesanzeiger.ch/wirtschaft/rss.html
+http://www.tagesanzeiger.ch/sport/rss.html
+http://www.tagesanzeiger.ch/kultur/rss.html
+http://www.tagesanzeiger.ch/panorama/rss.html
+http://www.tagesanzeiger.ch/leben/rss.html
+http://www.tagesanzeiger.ch/auto/rss.html
+http://www.tagesanzeiger.ch/digital/rss.html
+http://www.tagesanzeiger.ch/blogs/rss.html
+http://www.tagesanzeiger.ch/dienste/RSS/story/rss.html
+
+Site: finanztrader.com
+http://www.finanztrader.com/feed/
+
+Site: timschaefermedia.com
+http://feeds.feedburner.com/TimSchaeferMedia?format=xml
+
+Site: geldanlage-finanz-blog.com
+http://geldanlage-finanz-blog.com/feed/
+
+Site: dieboersenblogger.de
+http://feeds.feedburner.com/DieBoersenblogger?format=xml
+
+Site: essenceoffinance.com
+http://essenceoffinance.com/de/feed/
+
+Site: der-bank-blog.de
+http://www.der-bank-blog.de/feed/
+
+Site: diewunderbareweltderwirtschaft.de
+http://feeds2.feedburner.com/EgghatsBlog
+
+Site: everling.de
+http://www.everling.de/?feed=rss2
+
+Site: finsider.de
+http://www.finsider.de/feed/
+
+Site: freilich.ch
+http://www.freilich.ch/blog/?feed=rss2
+
+Site: acemaxx-analytics-dispinar.blogspot.de
+http://acemaxx-analytics-dispinar.blogspot.com/feeds/posts/default?alt=rss
+
+Site: yahoo.nachrichten
+# P # RSS list: https://de.nachrichten.yahoo.com/sitemap/
+https://de.nachrichten.yahoo.com/rss/
+https://de.nachrichten.yahoo.com/rss/allnews
+https://de.nachrichten.yahoo.com/rss/politik
+https://de.nachrichten.yahoo.com/rss/politik-inland
+https://de.nachrichten.yahoo.com/rss/politik-ausland
+https://de.nachrichten.yahoo.com/rss/panorama
+https://de.nachrichten.yahoo.com/rss/kriminalitaet
+https://de.nachrichten.yahoo.com/rss/katastrophen
+https://de.nachrichten.yahoo.com/rss/gerichtsprozesse
+https://de.nachrichten.yahoo.com/rss/technik
+https://de.nachrichten.yahoo.com/rss/telekommunikation
+https://de.nachrichten.yahoo.com/rss/wirtschaft
+https://de.nachrichten.yahoo.com/rss/unternehmen
+https://de.nachrichten.yahoo.com/rss/wirtschaftspolitik
+https://de.nachrichten.yahoo.com/rss/boerse
+https://de.nachrichten.yahoo.com/rss/wissen
+https://de.nachrichten.yahoo.com/rss/gesundheit-medizin
+https://de.nachrichten.yahoo.com/rss/weltraum
+https://de.nachrichten.yahoo.com/rss/forschung
+https://de.nachrichten.yahoo.com/rss/natur-umwelt
+https://de.nachrichten.yahoo.com/rss/unterhaltung
+https://de.nachrichten.yahoo.com/rss/klatsch
+https://de.nachrichten.yahoo.com/rss/virtual-od
+https://de.nachrichten.yahoo.com/rss/blogs
+
+Site: yahoo.finanzen
+# P # RSS list: https://de.finance.yahoo.com/nachrichten/rssindex/
+#https://de.finance.yahoo.com/nachrichten/rssindex/
+#https://us.lrd.yahoo.com/_ylt=AuAwZcd3smYJGWNpEcPy83wMZqZG;_ylu=X3oDMTBqZzAybTdoBHNlYwNVSCBVc2VyIFN1cHBvcnQ-;_ylg=X3oDMTBzOTNwNXZiBGxhbmcDZGUtREUEcHQDc2VjdGlvbnMEdGVzdAM-;_ylv=0/SIG=152o4m9ih/EXP=1422823820/**https://edit.yahoo.com/config/eval_register%3F.src=quote&.intl=de&.lang=de-DE&.done=https://de.finance.yahoo.com/nachrichten/rssindex/
+#https://login.yahoo.com/config/login;_ylt=AjV12rbSyYokpDFzPubfmx0MZqZG;_ylu=X3oDMTBqZzAybTdoBHNlYwNVSCBVc2VyIFN1cHBvcnQ-;_ylg=X3oDMTBzOTNwNXZiBGxhbmcDZGUtREUEcHQDc2VjdGlvbnMEdGVzdAM-;_ylv=3?.src=quote&.intl=de&.lang=de-DE&.done=https://de.finance.yahoo.com/nachrichten/rssindex/
+https://de.finance.yahoo.com/nachrichten/thema-top-nachrichten/?format=rss
+https://de.finance.yahoo.com/nachrichten/private-finanzen-uebersicht/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-ergebnisse/?format=rss
+https://de.finance.yahoo.com/nachrichten/thema-aktie-fokus/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-aktien/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-anleihen/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-asien/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-etf/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-europa/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-fonds/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-international/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-neuemissionen/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-rohstoffe/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-technische-analysen/?format=rss
+https://de.finance.yahoo.com/blogs/rise-and-fall/rss/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-upgrades-downgrades/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-usa/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-waehrungen/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-wirtschaft-politik/?format=rss
+https://de.finance.yahoo.com/nachrichten/kategorie-zertifikate/?format=rss
+https://de.finance.yahoo.com/blogs/?format=rss
+https://de.finance.yahoo.com/blogs/behavioral-finance/rss/?format=rss
+https://de.finance.yahoo.com/blogs/boersenblog/rss/?format=rss
+https://de.finance.yahoo.com/blogs/klueger-kaufen/rss/?format=rss
+https://de.finance.yahoo.com/blogs/kuehn-empfiehlt/rss/?format=rss
+https://de.finance.yahoo.com/nachrichten/branche-versorger/?format=rss
+https://de.finance.yahoo.com/nachrichten/branche-automobil/?format=rss
+https://de.finance.yahoo.com//nachrichten/branche-finanzdienstleistungen/?format=rss
+https://de.finance.yahoo.com/nachrichten/branche-gesundheit/?format=rss
+https://de.finance.yahoo.com/nachrichten/branche-industriegueter/?format=rss
+https://de.finance.yahoo.com/nachrichten/branche-medien/?format=rss
+https://de.finance.yahoo.com/nachrichten/branche-oel-gas/?format=rss
+https://de.finance.yahoo.com/nachrichten/branche-technologie/?format=rss
+https://de.finance.yahoo.com/nachrichten/branche-telekommunikation/?format=rss
+https://de.finance.yahoo.com/nachrichten/branche-versicherung/?format=rss
+https://de.finance.yahoo.com/nachrichten/anbieter-yahoofinanzen/?format=rss
+https://de.finance.yahoo.com/nachrichten/anbieter-afp/?format=rss
+https://de.finance.yahoo.com/nachrichten/anbieter-dpa/?format=rss
+https://de.finance.yahoo.com/nachrichten/anbieter-emfis/?format=rss
+https://de.finance.yahoo.com/nachrichten/anbieter-fundresearch/?format=rss
+https://de.finance.yahoo.com/nachrichten/anbieter-handelsblatt/?format=rss
+https://de.finance.yahoo.com/karriere/?format=rss
+https://de.finance.yahoo.com/nachrichten/finanztipps/?format=rss
+https://de.finance.yahoo.com/verbrauchertipps/?format=rss

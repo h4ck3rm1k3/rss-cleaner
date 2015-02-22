@@ -1,0 +1,3087 @@
+{
+    "database": {
+        "name": "News_eng"
+    }, 
+    "options": {
+        "schedulesecs": 100
+    }, 
+    "sources": [
+        {
+            "autnrank": "4000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.bbci.co.uk/news/rss.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.bbci.co.uk/news/world/rss.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "UK"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.bbci.co.uk/news/uk/rss.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.bbci.co.uk/news/business/rss.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.bbci.co.uk/news/politics/rss.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Science", 
+                                "Environment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.bbci.co.uk/news/technology/rss.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment", 
+                                "Arts"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml\n"
+                }
+            ], 
+            "name": "BBC", 
+            "options": {}
+        }, 
+        {
+            "autnrank": "4000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_topstories.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_world.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "US"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_us.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/money_latest.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_allpolitics.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Crime"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_crime.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_tech.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Health", 
+                                "Science"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_health.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_showbiz.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Travel"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_travel.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Living"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_living.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Media"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_freevideo.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Education"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_studentnews.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Popular"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_mostpopular.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Latest"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.cnn.com/rss/cnn_latest.rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Blog", 
+                                "User Content"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rss.ireport.com/feeds/oncnn.rss\n"
+                }
+            ], 
+            "name": "CNN", 
+            "options": {}
+        }, 
+        {
+            "autnrank": "2000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://news.sky.com/feeds/rss/home.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "UK"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://news.sky.com/feeds/rss/uk.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://news.sky.com/feeds/rss/world.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "US"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://news.sky.com/feeds/rss/us.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://news.sky.com/feeds/rss/business.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://news.sky.com/feeds/rss/politics.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://news.sky.com/feeds/rss/technology.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://news.sky.com/feeds/rss/entertainment.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Strange"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://news.sky.com/feeds/rss/strange.xml\n"
+                }
+            ], 
+            "name": "SKY", 
+            "options": {}
+        }, 
+        {
+            "autnrank": "3000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Latest"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.huffingtonpost.com/huffingtonpost/LatestNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Popular"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.huffingtonpost.com/HP/MostPopular\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/tag/huffpolitics/feed\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.huffingtonpost.com/FeaturedPosts\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.huffingtonpost.com/huffingtonpost/TheBlog\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Arts"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/arts/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Black"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/black-voices/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/business/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Books"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/books/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/business/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Chicago"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/chicago/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Education"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/college/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment", 
+                                "Comedy"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/comedy/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Crime"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/crime/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "DC"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/dc/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Denver"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/denver/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Detroit"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/detroit/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Living", 
+                                "Divorce"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/divorce/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Education"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/education/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/entertainment/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Senior", 
+                                "Living"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/fifty/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Food", 
+                                "Living"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/food/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Living"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/gps-for-the-soul/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Gay"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/gay-voices/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Other"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/good-news/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Environment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/green/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Hawaii"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/hawaii/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Health", 
+                                "Living"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/healthy-living/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Home", 
+                                "Living"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/huffpost-home/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Charity", 
+                                "Living"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/impact/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Latin"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/latino-voices/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "LA"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/los-angeles/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Media"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/media/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Miami"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/miami/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Money", 
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/money/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "New York"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/new-york/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Other", 
+                                "Living"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/own/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Education", 
+                                "Living", 
+                                "Parenting"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/parents/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/politics/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Religion"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/religion/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "San Francisco"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/san-francisco/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Science"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/science/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business", 
+                                "Small Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/small-business/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/sports/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Fashion"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/style/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "TED"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/tedweekends/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Food"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/taste/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/technology/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Youth", 
+                                "Living"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/teen/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Travel"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/travel/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Weddings", 
+                                "Living"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/weddings/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Strange"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/weird-news/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Women"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/women/index.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/world/index.xml\n"
+                }
+            ], 
+            "name": "Huffington Post", 
+            "options": {
+                "full_html": true
+            }
+        }, 
+        {
+            "autnrank": "4000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News", 
+                                "US"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/InternationalHome.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World", 
+                                "Blog", 
+                                "War"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://atwar.blogs.nytimes.com/feed/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World", 
+                                "Blog", 
+                                "India"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://india.blogs.nytimes.com/feed/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World", 
+                                "Africa"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Africa.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World", 
+                                "Asia", 
+                                "Asia Pacific"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World", 
+                                "Americas"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Americas.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World", 
+                                "Europe"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Europe.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World", 
+                                "Middle East"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/MiddleEast.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "US"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/US.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "US", 
+                                "Education"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Education.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "US", 
+                                "Education", 
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://learning.blogs.nytimes.com/feed\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "US", 
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Politics.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "US", 
+                                "Politics", 
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://thecaucus.blogs.nytimes.com/feed/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "US", 
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://thelede.blogs.nytimes.com/feed/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "New York"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/NYRegion.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "New York", 
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://cityroom.blogs.nytimes.com/feed/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "New York", 
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://fort-greene.blogs.nytimes.com/feed\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "New York", 
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://eastvillage.thelocal.nytimes.com/feed/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.nytimes.com/nyt/rss/Business\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Environment", 
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World", 
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/InternationalBusiness.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business", 
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://boss.blogs.nytimes.com/feed\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Economy", 
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Economy.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://dealbook.blogs.nytimes.com/feed/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business", 
+                                "Media"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business", 
+                                "Money"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/YourMoney.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.nytimes.com/nyt/rss/Technology\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology", 
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://bits.blogs.nytimes.com/feed/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology", 
+                                ""
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/PersonalTech.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports", 
+                                "US"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Sports.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/InternationalSports.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports", 
+                                "Baseball"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Baseball.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports", 
+                                "College", 
+                                "Basketball"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/CollegeBasketball.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports", 
+                                "College", 
+                                "Football"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/CollegeFootball.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports", 
+                                "Golf"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Golf.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports", 
+                                "Hockey"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Hockey.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports", 
+                                "Basketball"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/ProBasketball.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports", 
+                                "Football"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/ProFootball.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports", 
+                                "Soccer"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Soccer.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports", 
+                                "Tennis"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Tennis.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports", 
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://gambit.blogs.nytimes.com/feed/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sports", 
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://therail.blogs.nytimes.com/feed\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Science"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Science.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Environment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Environment.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Science", 
+                                "Space"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Space.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Health"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Health.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Health", 
+                                "Science"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Research.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Health", 
+                                "Fitness"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Nutrition.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Health", 
+                                "Money"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/HealthCarePolicy.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Health"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Views.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Arts"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Arts.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment", 
+                                "TV"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Television.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment", 
+                                "Music"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Music.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment", 
+                                "Books"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Books.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainments", 
+                                "Movies"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Movies.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Fashion"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Food"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/DiningandWine.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Home"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/HomeandGarden.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Wedding"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Weddings.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Travel"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.nytimes.com/services/xml/rss/nyt/Travel.xml\n"
+                }
+            ], 
+            "name": "New York Times", 
+            "options": {
+                "full_html": true
+            }
+        }, 
+        {
+            "autnrank": "3000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.theguardian.com/theguardian/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.theguardian.com/theguardian/world/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.guardian.co.uk/theguardian/business/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Environment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.guardian.co.uk/theguardian/environment/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sport"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.guardian.co.uk/theguardian/sport/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Travel"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.guardian.co.uk/theguardian/travel/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.guardian.co.uk/theguardian/politics/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "UK"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.guardian.co.uk/theguardian/uk/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.guardian.co.uk/theguardian/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.guardian.co.uk/politics/political-speeches/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.guardian.co.uk/politics/all/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.guardian.co.uk/business/economics/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.guardian.co.uk/world/asiapacific/roundup/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.guardian.co.uk/world/usa/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.guardian.co.uk/theguardian/world/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.guardian.co.uk/world/southandcentralasia/roundup\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.guardian.co.uk/world/europe/roundup/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.guardian.co.uk/world/middleeast/roundup/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Culture"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.guardian.co.uk/theguardian/culture/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.guardian.co.uk/theguardian/technology/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Science"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.guardian.co.uk/science/rss\n"
+                }
+            ], 
+            "name": "The Guardian", 
+            "options": {
+                "full_html": true
+            }
+        }, 
+        {
+            "autnrank": "3000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.wsjonline.com/wsj/xml/rss/3_7011.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Opinion", 
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://online.wsj.com/xml/rss/3_7041.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://online.wsj.com/xml/rss/3_7085.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business", 
+                                "US"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://online.wsj.com/xml/rss/3_7014.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business", 
+                                "Money"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://online.wsj.com/xml/rss/3_7031.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://online.wsj.com/xml/rss/3_7455.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Living"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://online.wsj.com/xml/rss/3_7201.xml\n"
+                }
+            ], 
+            "name": "Wall Street Journal", 
+            "options": {
+                "full_html": true
+            }
+        }, 
+        {
+            "autnrank": "4000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "UK"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://mf.feeds.reuters.com/reuters/UKdomesticNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "USA"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/domesticNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/politicsNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/businessNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Finance"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/dealsNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Finance"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/mergersNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Finance"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/privateequityNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/entertainment\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Science"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/scienceNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Health"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/healthNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/technologyNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Internet"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/internetNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sport"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/sportsNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/topNews\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.reuters.com/reuters/worldNews\n"
+                }
+            ], 
+            "name": "Reuters", 
+            "options": {
+                "full_html": true
+            }
+        }, 
+        {
+            "autnrank": "2000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sport"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_sport_61.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Australia"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_the_nation_62.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Australia", 
+                                "US"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_uselection_687.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/ausit_topstories_366.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Arts"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_arts_51.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business", 
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_business_worldnews_698.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business", 
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_business_world_fin_mkts_700.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Australia"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_news_807.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_world_808.xml\n"
+                }
+            ], 
+            "name": "News.com.au", 
+            "options": {}
+        }, 
+        {
+            "autnrank": "2000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.foxnews.com/foxnews/business\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.foxnews.com/foxnews/entertainment\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Health"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.foxnews.com/foxnews/health\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.foxnews.com/foxnews/latest\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.foxnews.com/foxnews/politics\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.foxnews.com/foxnews/scitech\n"
+                }
+            ], 
+            "name": "Fox News", 
+            "options": {}
+        }, 
+        {
+            "autnrank": "2000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.chron.com/rss/feed/Politics-275.php\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Life"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.chron.com/rss/feed/Life-297.php\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.chron.com/rss/feed/Business-287.php\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Energy", 
+                                "Environment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.chron.com/rss/feed/Energy-288.php\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sport"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.chron.com/sports/headlines/collectionRss/Sports-Headlines-Staff-Stories-10767.php\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.chron.com/rss/feed/AP-Technology-and-Science-266.php\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.chron.com/rss/feed/Entertainment-293.php\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.chron.com/rss/feed/News-270.php\n"
+                }
+            ], 
+            "name": "Houston Chronicles", 
+            "options": {}
+        }, 
+        {
+            "autnrank": "2000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sport"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://sports.espn.go.com/espn/rss/News\n"
+                }
+            ], 
+            "name": "ESPN", 
+            "options": {}
+        }, 
+        {
+            "autnrank": "2000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rt.com/rss/news/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "USA"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rt.com/rss/usa/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Russia", 
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rt.com/rss/politics/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://rt.com/rss/business/\n"
+                }
+            ], 
+            "name": "RT.com", 
+            "options": {}
+        }, 
+        {
+            "autnrank": "3000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.telegraph.co.uk/news/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "UK"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.telegraph.co.uk/news/uknews/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.telegraph.co.uk/news/worldnews/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.telegraph.co.uk/news/politics/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sport"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.telegraph.co.uk/sport/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Soccer"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.telegraph.co.uk/sport/football/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Travel"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.telegraph.co.uk/travel/travelnews/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://blogs.telegraph.co.uk/feed-2/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Finance"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.telegraph.co.uk/finance/rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://www.telegraph.co.uk/technology/news/rss\n"
+                }
+            ], 
+            "name": "The Telegraph", 
+            "options": {}
+        }, 
+        {
+            "autnrank": "3000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Latest"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://pipes.yahoo.com/pipes/pipe.run?_id=5dc8a87340794a992d374f7389268bc3&_render=rss\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/news\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Popular"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/MostEmailed\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "California"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/news/local\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "USA"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/news/nationworld/nation\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/business\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Politics", 
+                                "USA"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/news/politics/\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.feedburner.com/latimes/technology\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Science"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/news/science\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Religion"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/features/religion\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Environment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/news/science/environment\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "World"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/news/nationworld/world\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Africa"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/africa\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Americas"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/latinamerica\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Asia"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/asia\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Europe"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/europe\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Middle East"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.latimes.com/latimes/middleeast\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Arts", 
+                                "Culture"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.feedburner.com/latimes/entertainment/news/arts\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment", 
+                                "Movies"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.feedburner.com/latimes/entertainment/news/movies/\n"
+                }
+            ], 
+            "name": "Sport#http://feeds.latimes.com/latimes/sports/", 
+            "options": {}
+        }, 
+        {
+            "autnrank": "3000", 
+            "feeds": [
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Business"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_businessnews_691.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Arts"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_arts_51.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Environment"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_climate_809.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Entertainment", 
+                                "Media"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_media_57.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Australia", 
+                                "Politics"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.feedburner.com/TheAustralianPolitics\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Top News"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_news_807.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Australia"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_the_nation_62.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Sport"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_sport_61.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Word"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/aus_world_808.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Life"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.feedburner.com/TheAustralianExecutiveLifestyle\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Technology"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://feeds.news.com.au/public/rss/2.0/ausit_itnews_topstories_367.xml\n"
+                }, 
+                {
+                    "fields": [
+                        {
+                            "name": "categories", 
+                            "values": [
+                                "Australia", 
+                                "Blog"
+                            ]
+                        }
+                    ], 
+                    "rss_url": "http://blogs.news.com.au/theaustralian/letters/index.php/xml/rss_latest\n"
+                }
+            ], 
+            "name": "The Australian", 
+            "options": {}
+        }
+    ], 
+    "threads": 2
+}
